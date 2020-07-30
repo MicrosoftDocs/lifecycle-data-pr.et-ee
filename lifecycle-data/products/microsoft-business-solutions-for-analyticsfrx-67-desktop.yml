@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Office ' i lahendused Analyticsi jaoks – FRx 6,7 töölaud
+  description: Microsoft Office ' i Ärilahendused Analyticsi jaoks – FRx 6,7 töölauale järgneb määratud elutsükli poliitika.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: ba731ed0c09140b17a3ebf628e7383065aa65714
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: et-EE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "813668"
+name: Microsoft Office ' i lahendused Analyticsi jaoks – FRx 6,7 töölaud
+summary: >+
+  Microsoft Office ' i Ärilahendused Analyticsi jaoks – FRx 6,7 töölauale järgneb [määratud](/lifecycle/policies/fixed) elutsükli poliitika.
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 05/30/2004
+  end: 07/14/2009
+  extendedEnd: 07/08/2014
+releases:
+- version: Original Release
+  startDate: 05/30/2004
+  endDate: 07/08/2014
+content: "\n\n> [!NOTE]\n> FRx tugi lõpeb märgitud kuupäevaks, välja arvatud juhul, kui see on jaotatud Dynamics toote koostisosana. Kui Dynamics ' i toode on jaotatud, alistab Dynamics Lifecycle kuupäevad FRx kuupäevad."
