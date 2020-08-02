@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows mitmepunktilised Server 2010
+  description: Windows mitmepunktilised Server 2010 järgib määratud elutsükli poliitikat.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: fe2e8699f2c0dd5d2303ba32477aa39287a7c354
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: et-EE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "813484"
+name: Windows mitmepunktilised Server 2010
+summary: >+
+  Windows mitmepunktilised Server 2010 järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+
+
+  See kehtib järgmiste väljaannete kohta: Akadeemiline, standardne
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/13/2010
+  end: 07/14/2015
+  extendedEnd: 07/14/2020
+releases:
+- version: Original Release
+  startDate: 05/13/2010
+  endDate: 07/14/2020
+content: "\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](https://aka.ms/AA1ovn4)\n* [Migreerimise täiendavad juhised](/windows-server/get-started/installation-and-upgrade)\n* [Toote teave](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>Väljaanded \n* Akadeemilise\n* Standard"
