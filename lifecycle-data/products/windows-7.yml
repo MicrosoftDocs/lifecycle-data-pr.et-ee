@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 7
+  description: Windows 7 järgib määratud elutsükli poliitikat.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a1b1b370fe7d15abae83da62603b4522ea79a307
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: et-EE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "812987"
+name: Windows 7
+summary: "Windows 7 järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.\n\nSee kehtib järgmiste väljaannete kohta: Enterprise, Enterprise N, Home Algtase, Home Premium, Home Premium N, Professional, Professional, Professional for Embedded Systems, Professional N, Starter, Starter N, Ultimate, Ultimate (Embedded Systems, Ultimate N)\n\n> [!IMPORTANT]\n> Selle toote tugi on lõppenud. Vt allpool teemast migreerimise juhised. \n"
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/22/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Extended Security Update Year 3*
+  startDate: 01/11/2022
+  endDate: 01/10/2023
+- version: Extended Security Update Year 2*
+  startDate: 01/12/2021
+  endDate: 01/11/2022
+- version: Extended Security Update Year 1*
+  startDate: 01/14/2020
+  endDate: 01/12/2021
+- version: Service Pack 1
+  startDate: 02/22/2011
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 10/22/2009
+  endDate: 04/09/2013
+content: "> [!TIP]\n> \"* Laiendatud turvavärskendused (ESÜD) on saadaval Windows 7 Professional ' i, Enterprise ' i ja Professionali jaoks mõeldud kindlate hulgilitsentsimise programmide kaudu, kuni kolme aasta jooksul pärast toetuse lõppu. Lisateabe saamiseks pöörduge oma Microsofti partneri või konto töörühma poole. \n\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](https://support.microsoft.com/help/4057281)\n* [Üleminek versioonilt Windows 7 versioonile Windows 10](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [Laiendatud turvavärskenduse programm (ESÜD)](/lifecycle/faq/extended-security-updates)\n* [Hoolduspaketi poliitika](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Väljaanded \n* Enterprise\n* Enterprise N\n* Home Algtase\n* Home Premium\n* Home Premium N\n* Professional\n* Professionaalsed sisseehitatud süsteemid\n* Professional N\n* Starter\n* Starter N\n* Ultimate\n* Ultimate for Embedded Systems\n* Ultimate N"

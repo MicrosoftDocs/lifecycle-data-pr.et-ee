@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft report Viewer 2010 taaslevitatav
+  description: Microsoft report Viewer 2010 taaslevitatakse määratud elutsükli poliitika järgi.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: f4e1569165a222cc013d2d9fd58074f6cef98816
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: et-EE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "813027"
+name: Microsoft report Viewer 2010 taaslevitatav
+summary: >+
+  Microsoft report Viewer 2010 taaslevitatakse [määratud](/lifecycle/policies/fixed) elutsükli poliitika järgi.
+
+
+products:
+- sql-server
+policyType: fixed
+supportDates:
+  start: 06/29/2010
+  end: 07/14/2015
+  extendedEnd: 09/08/2020
+releases:
+- version: Original Release
+  startDate: 06/29/2010
+  endDate: 09/08/2020
+content: "\n## <a name=\"links\"></a>Lingid \n* [Toote teave](/sql/reporting-services/application-integration/integrating-reporting-services-using-reportviewer-controls-get-started?view=sql-server-ver15)"
