@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windowsi põhialused varasemate arvutite jaoks
+  description: Windowsi põhialused arvutite jaoks on määratud elutsükli poliitika järgi.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b0ea32a5421ba068c5fa75f46633c104fdb3eff5
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: et-EE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "812976"
+name: Windowsi põhialused varasemate arvutite jaoks
+summary: >+
+  Windowsi põhialused arvutite jaoks on [määratud](/lifecycle/policies/fixed) elutsükli poliitika järgi.
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/31/2006
+  end: 04/14/2009
+  extendedEnd: 04/08/2014
+releases:
+- version: Service Pack 3
+  startDate: 10/07/2008
+  endDate: 04/08/2014
+- version: Original Release
+  startDate: 05/31/2006
+  endDate: 10/12/2010
+content: "\n## <a name=\"links\"></a>Lingid \n* [Hoolduspaketi poliitika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> See toode järgib Windows XP-s sama tugiteenuse elutsükli poliitikat."
