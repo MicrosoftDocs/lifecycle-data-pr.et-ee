@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Office Publisher 2003
+  description: Microsoft Office Publisher 2003 järgib määratud elutsükli poliitikat.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: dc74fbb4c7ad1e9d6e27b507d00c15aadd1665dc
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: et-EE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "813604"
+name: Microsoft Office Publisher 2003
+summary: >+
+  Microsoft Office Publisher 2003 järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+
+
+  See kehtib järgmiste väljaannete kohta: Standard, millel on digitaalne Imaging
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 11/24/2003
+  end: 04/14/2009
+  extendedEnd: 04/08/2014
+releases:
+- version: Original Release
+  startDate: 11/24/2003
+  endDate: 04/08/2014
+content: "\n\n\n## <a name=\"editions\"></a>Väljaanded \n* Standard\n* Digitaalne pildistamine"
