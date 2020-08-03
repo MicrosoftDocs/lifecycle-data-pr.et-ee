@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamics ettevõtja lahendus 2008
+  description: Dynamics ettevõtja lahendus 2008 järgib määratud elutsükli poliitikat.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 2c1a6cec1d8bc3401b1c0dc8d156c03795e68b05
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: et-EE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "813762"
+name: Dynamics ettevõtja lahendus 2008
+summary: >+
+  Dynamics ettevõtja lahendus 2008 järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+
+
+products:
+- dynamics
+policyType: fixed-mainstream-only
+supportDates:
+  start: 01/13/2008
+  end: 04/09/2013
+releases:
+- version: Original Release
+  startDate: 01/13/2008
+  endDate: 04/09/2013
+content: ''

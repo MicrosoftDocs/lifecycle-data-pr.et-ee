@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Internet Explorer 8
+  description: Internet Explorer 8 järgib komponendi elutsükli poliitikat.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 829f271edf5fe7984b750209a89f0f40efc6a3c3
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: et-EE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "813715"
+name: Internet Explorer 8
+summary: >+
+  Internet Explorer 8 järgib [komponendi](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) elutsükli poliitikat.
+
+
+products:
+- internet-explorer
+policyType: component
+supportDates:
+  start: 06/17/2009
+releases:
+- version: Original Release
+  startDate: 06/17/2009
+content: "\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](https://www.microsoft.com/itpro/microsoft-edge)\n* [Internet Exploreri elutsükli poliitika KKK](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Alates 12. jaanuarist 2016 saab tehnilise toe ja turvavärskenduste saamiseks kasutada ainult uusimat Internet Exploreri versiooni, mis on saadaval toetatud operatsioonisüsteemi jaoks."
