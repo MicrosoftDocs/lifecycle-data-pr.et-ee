@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2008
+  description: Windows Server 2008 järgib määratud elutsükli poliitikat.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cb16ce7326c75c0c560a1b8a0078d03656d58c21
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: et-EE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "813853"
+name: Windows Server 2008
+summary: >
+  Windows Server 2008 järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+
+
+  See kehtib järgmiste väljaannete kohta: Datacenter, Andmekeskuse, V. a Hyper-V, Enterprise, Enterprise, without Hyper-V, Itaniumi-põhistele süsteemidele, sihtasutusele, standardile, standardile, V
+
+
+  > [!IMPORTANT]
+
+  > Selle toote tugi on lõppenud. Vt allpool teemast migreerimise juhised.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/06/2008
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Service Pack 2
+  startDate: 04/29/2009
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 05/06/2008
+  endDate: 07/12/2011
+content: "\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](https://aka.ms/AA1ovn4)\n* [Serveri uuenduste teave](/windows-server/upgrade/upgrade-overview)\n* [Laiendatud turvavärskenduse programm (ESÜD)](/lifecycle/faq/extended-security-updates)\n* [Hoolduspaketi poliitika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Laiendatud turvavärskendused (ESÜD) on saadaval spetsiaalsete hulgilitsentsimise programmide jaoks, mis on saadaval selle toote väljaannete jaoks, kuni kolme aasta jooksul pärast toetuse lõppu. Lisateabe saamiseks pöörduge oma Microsofti partneri või konto töörühma poole. \n\nVäljalaske--------------------------------alguskuupäev----lõppkuupäev\n\nLaiendatud turbevärskenduse aasta 3---01/11/2022---01/10/2023\n\nTurvavärskenduse laiendatud aasta 2---01/12/2021---01/11/2022\n\nLaiendatud turbevärskenduse aasta 1---01/14/2020---01/12/2021\n> [!NOTE]\n> Windows Server 2008 sihtasutus on välja antud 21 mai 2009\n\n## <a name=\"editions\"></a>Väljaanded \n* Datacenter\n* Andmekeskuse, millel pole Hyper-V\n* Enterprise\n* Enterprise, millel pole Hyper-V\n* Itaniumi-põhistele süsteemidele\n* Fondi\n* Standard\n* Standard, mis ei ole Hyper-V\n* Web"

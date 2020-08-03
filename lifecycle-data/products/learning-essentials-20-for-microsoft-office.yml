@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Office ' i rakenduse Essentials 2,0 õppimine
+  description: Microsoft Office ' i Microsoft Office ' i jaoks mõeldud rakenduse Microsoft Office for 2,0
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 1bdfd924e319c432bbaf5d2b75f5945ca6408915
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: et-EE
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "813711"
+name: Microsoft Office ' i rakenduse Essentials 2,0 õppimine
+summary: >+
+  Microsoft Office ' i Microsoft Office ' i [Component](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) jaoks mõeldud rakenduse Microsoft Office for 2,0
+
+
+products:
+- office
+policyType: component
+supportDates:
+  start: 04/30/2007
+  end: 07/10/2012
+releases:
+- version: Original Release
+  startDate: 04/30/2007
+  endDate: 07/10/2012
+content: ''
