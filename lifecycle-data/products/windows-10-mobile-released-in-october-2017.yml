@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 10 Mobile, välja antud oktoobris 2017
+  description: Windows 10 Mobile, välja antud oktoobris 2017, järgib määratud elutsükli poliitikat.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 8b985e9de8f67c71a0a81c907664499b3cd303e2
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: et-EE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "868911"
+name: Windows 10 Mobile, välja antud oktoobris 2017
+summary: >
+  Windows 10 Mobile, välja antud oktoobris 2017, järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+
+
+
+  > [!IMPORTANT]
+
+  > Selle toote tugi on lõppenud.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/17/2017
+  end: 12/10/2019
+  extendedEnd: 01/14/2020
+releases:
+- version: Original Release
+  startDate: 10/17/2017
+content: "\n## <a name=\"links\"></a>Lingid \n* [Seadme OS-i elutsükli KKK](/lifecycle/faq/device-operating-systems)\n* [Windows 10 Mobile lõppes tugi 10. detsembril 2019](/lifecycle/announcements/windows-10-mobile-end-of-support)"
