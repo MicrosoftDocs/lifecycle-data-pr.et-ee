@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamics AX 2012 R3
+  description: Dynamics AX 2012 R3 järgib määratud elutsükli poliitikat.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d321f6b8d10b4c1acf17eb7645030cca46f4f611
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: et-EE
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "852430"
+name: Dynamics AX 2012 R3
+summary: >+
+  Dynamics AX 2012 R3 järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 08/01/2014
+  end: 10/12/2021
+  extendedEnd: 01/10/2023
+releases:
+- version: Original Release
+  startDate: 08/01/2014
+  endDate: 01/10/2023
+content: "\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](/dynamics365/unified-operations/dev-itpro/migration-upgrade/upgrade-overview-2012)\n* [Dynamics 365 migreerimise programm](https://dynamics.microsoft.com/migration-program/)\n* [Täiendava elutsükli teave](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/upgrade-overview-2012)\n\n> [!NOTE]\n> Mainstream ja pikendatud tugi on laiendatud, nagu on näidatud."
