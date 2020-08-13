@@ -2,13 +2,13 @@
 metadata:
   title: Dynamics 365 paigutus
   description: Dynamics 365 paigutus järgib tänapäevase elutsükli poliitikat.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: b3dff3d9a8e33fd57896f487fdf4e5702dd1dfd6
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 1995274fb40f9ea278629e50c290def57f7f113d
+  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
   ms.translationtype: MT
   ms.contentlocale: et-EE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "868851"
+  ms.lasthandoff: 08/12/2020
+  ms.locfileid: "891838"
 name: Dynamics 365 paigutus
 summary: >+
   Dynamics 365 paigutus järgib [tänapäevase](/lifecycle/policies/modern) elutsükli poliitikat.
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 09/30/2018
   endDate: 12/31/2021
-content: "\n## <a name=\"links\"></a>Lingid \n* [Paigutus ja Remote Assist](/dynamics365/mixed-reality/layout/faq)"
+content: "\n## <a name=\"links\"></a>Lingid \n* [Paigutus ja Remote Assist](/dynamics365/mixed-reality/layout/faq)\n* [Dynamics 365 paigutuse üleminekust teatamine](https://dynamics.microsoft.com/mixed-reality/layout-transition/)"
