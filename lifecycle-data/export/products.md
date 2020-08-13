@@ -1,27 +1,27 @@
 ---
 title: Toodete eksportimine
 description: Toote elutsükli teabe eksportimine
-ms.date: 08/12/2020
-ms.openlocfilehash: 4a3e2de9614fe0850cb0353468a6ad9f88857d8c
-ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
+ms.date: 08/13/2020
+ms.openlocfilehash: 392fea55e33da62de142ddf7fe2d70e1aec3e0da
+ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/12/2020
-ms.locfileid: "891690"
+ms.lasthandoff: 08/13/2020
+ms.locfileid: "893309"
 ---
-# <a name="export"></a><span data-ttu-id="c7f30-103">Eksportimine</span><span class="sxs-lookup"><span data-stu-id="c7f30-103">Export</span></span>
+# <a name="export"></a><span data-ttu-id="2df0f-103">Eksportimine</span><span class="sxs-lookup"><span data-stu-id="2df0f-103">Export</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="c7f30-104">See leht on jaotises arendus.</span><span class="sxs-lookup"><span data-stu-id="c7f30-104">This page is under development.</span></span>
+> <span data-ttu-id="2df0f-104">See leht on jaotises arendus.</span><span class="sxs-lookup"><span data-stu-id="2df0f-104">This page is under development.</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="c7f30-105">Kõigi toodete eksportimine</span><span class="sxs-lookup"><span data-stu-id="c7f30-105">Export All Products</span></span>
-<span data-ttu-id="c7f30-106">Eksportige kõik tooted ilma filtrita.</span><span class="sxs-lookup"><span data-stu-id="c7f30-106">Export all products without any filters.</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="2df0f-105">Kõigi toodete eksportimine</span><span class="sxs-lookup"><span data-stu-id="2df0f-105">Export All Products</span></span>
+<span data-ttu-id="2df0f-106">Eksportige kõik tooted ilma filtrita.</span><span class="sxs-lookup"><span data-stu-id="2df0f-106">Export all products without any filters.</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="c7f30-107">Kõigi toodete eksportimine</span><span class="sxs-lookup"><span data-stu-id="c7f30-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="2df0f-107">Kõigi toodete eksportimine</span><span class="sxs-lookup"><span data-stu-id="2df0f-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-category"></a><span data-ttu-id="c7f30-108">Toodete eksportimine kategooria järgi</span><span class="sxs-lookup"><span data-stu-id="c7f30-108">Export Products by Category</span></span>
-<span data-ttu-id="c7f30-109">Valige eksportimiseks rühmitamine.</span><span class="sxs-lookup"><span data-stu-id="c7f30-109">Select a grouping to export:</span></span>
+## <a name="export-products-by-category"></a><span data-ttu-id="2df0f-108">Toodete eksportimine kategooria järgi</span><span class="sxs-lookup"><span data-stu-id="2df0f-108">Export Products by Category</span></span>
+<span data-ttu-id="2df0f-109">Valige eksportimiseks rühmitamine.</span><span class="sxs-lookup"><span data-stu-id="2df0f-109">Select a grouping to export:</span></span>
 
 > [!div class="op_multi_selector" title1="Peretoad" title2="Rühma"]
 > - [(.NET | Kõik](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -80,8 +80,8 @@ ms.locfileid: "891690"
 > - [(Windows | Turve](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows | Server](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-year"></a><span data-ttu-id="c7f30-167">Toodete eksportimine toetuse aasta lõpul</span><span class="sxs-lookup"><span data-stu-id="c7f30-167">Export Products by End of Support Year</span></span>
-<span data-ttu-id="c7f30-168">Valige aasta, et eksportida tooted, mis lõpevad teenusega sel aastal.</span><span class="sxs-lookup"><span data-stu-id="c7f30-168">Select a year to export products ending service in that year:</span></span>
+## <a name="export-products-by-end-of-support-year"></a><span data-ttu-id="2df0f-167">Toodete eksportimine toetuse aasta lõpul</span><span class="sxs-lookup"><span data-stu-id="2df0f-167">Export Products by End of Support Year</span></span>
+<span data-ttu-id="2df0f-168">Valige aasta, et eksportida tooted, mis lõpevad teenusega sel aastal.</span><span class="sxs-lookup"><span data-stu-id="2df0f-168">Select a year to export products ending service in that year:</span></span>
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))
