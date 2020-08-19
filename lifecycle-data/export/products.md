@@ -1,27 +1,27 @@
 ---
-title: Toodete eksportimine
+title: Elutsükli andmete eksportimine
 description: Toote elutsükli teabe eksportimine
-ms.date: 08/17/2020
-ms.openlocfilehash: 01a34995c0dd1fc9fb0c5f75c4460357e091ccce
-ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
+ms.date: 08/18/2020
+ms.openlocfilehash: 80145edf59e6406d32292d846ae3f263cddd294a
+ms.sourcegitcommit: 6bed901441570ef084842edd1b7e5dfbc192c99a
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "899798"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "902398"
 ---
-# <a name="export"></a>Eksportimine
+# <a name="lifecycle-data-export"></a>Elutsükli andmete eksportimine
 
 > [!IMPORTANT]
 > See leht on jaotises arendus.
 
 ## <a name="export-all-products"></a>Kõigi toodete eksportimine
-Eksportige kõik tooted ilma filtrita.
+Kõigi toodete elutsükli andmete eksportimiseks klõpsake nuppu allpool.
 
 > [!div class="nextstepaction"]
 > [Kõigi toodete eksportimine](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-category"></a>Toodete eksportimine kategooria järgi
-Valige eksportimiseks rühmitamine.
+## <a name="export-products-by-family-and-group"></a>Toodete eksportimine pereliikmete ja rühmade kaupa
+Valige perekond ja seejärel eksportimiseks rühm. Märkus: eksportimine algab siis, kui valitud on väärtus Rühmita. 
 
 > [!div class="op_multi_selector" title1="Peretoad" title2="Rühma"]
 > - [(.NET | Kõik](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -80,8 +80,8 @@ Valige eksportimiseks rühmitamine.
 > - [(Windows | Turve](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows | Server](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-year"></a>Toodete eksportimine toetuse aasta lõpul
-Valige aasta, et eksportida tooted, mis lõpevad teenusega sel aastal.
+## <a name="export-products-by-end-of-support-date"></a>Toodete eksportimine toetuse kuupäeva lõpu alusel
+Valige aasta, et kuvada tugiteenuste lõppu ulatuvad tooted. Märkus: eksportimine algab siis, kui valitud on aasta väärtus.
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))
