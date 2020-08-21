@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365 talentide jaoks
-  description: Dynamics 365 talentide jaoks järgib tänapäevast elutsükli poliitikat.
+  title: Dynamics 365 for Talent
+  description: Dynamics 365 for Talent järgib kaasaegset elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: d6dc50f8fa82bcf711b79df464c150fdbf9d1ec6
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "868868"
-name: Dynamics 365 talentide jaoks
+name: Dynamics 365 for Talent
 summary: >+
-  Dynamics 365 talentide jaoks järgib [tänapäevast](/lifecycle/policies/modern) elutsükli poliitikat.
+  Dynamics 365 for Talent järgib [kaasaegset](/lifecycle/policies/modern) elutsükli poliitikat.
 
 
-  See kehtib järgmiste väljaannete kohta: pardal
+  See kehtib järgmiste väljaannete kohta: Onboard
 
 products:
 - dynamics
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 07/31/2017
   endDate: 02/02/2022
-content: "\n## <a name=\"links\"></a>Lingid \n* [Süsteeminõuded](/dynamics365/talent/talent-versions-update-policy#supported-microsoft-office-applications)\n* [Migreerimise juhised](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/12/06/building-a-more-successful-workforce-with-dynamics-365-human-resources)\n\n> [!NOTE]\n> Rakenduste meelitamine ja pardale sisselogimine läheb pensionile 2. veebruaril, 2022.  Core HR taaskäivitatakse Dynamics 365 Inimressursid veebruaril 1, 2020, lugege lisateavet teemast migreerimise juhised.\n\n## <a name=\"editions\"></a>Väljaanded \n* Pardal"
+content: "\n## <a name=\"links\"></a>Lingid \n* [Süsteeminõuded](/dynamics365/talent/talent-versions-update-policy#supported-microsoft-office-applications)\n* [Migreerimise juhised](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/12/06/building-a-more-successful-workforce-with-dynamics-365-human-resources)\n\n> [!NOTE]\n> Rakendused Attract ja Onboard aeguvad 2. veebruaril 2022.  Core HR toodi uuesti turule 1. veebruaril 2020 nimega Dynamics 365 Human Resources, vaadake migreerimisjuhisest lisateavet.\n\n## <a name=\"editions\"></a>Väljaanded \n* Onboard"
