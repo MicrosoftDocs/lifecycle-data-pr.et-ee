@@ -1,27 +1,27 @@
 ---
 title: Elutsükli andmete eksportimine
 description: Toote elutsükli teabe eksportimine
-ms.date: 08/20/2020
-ms.openlocfilehash: c0a2c57e9fa1ee15ab6a05e56affe6a27d5ed163
-ms.sourcegitcommit: f2f920f4a81a356fb71402238234768a9e90fd51
+ms.date: 08/21/2020
+ms.openlocfilehash: 0be7bc850f64e829e30a48e25bf6d9af21dd9099
+ms.sourcegitcommit: 58c6a4bf0c3ef066969422e3acf340702facef6e
 ms.translationtype: MT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "905206"
+ms.lasthandoff: 08/21/2020
+ms.locfileid: "906318"
 ---
-# <a name="lifecycle-data-export"></a><span data-ttu-id="3581f-103">Elutsükli andmete eksportimine</span><span class="sxs-lookup"><span data-stu-id="3581f-103">Lifecycle data export</span></span>
+# <a name="lifecycle-data-export"></a><span data-ttu-id="8a092-103">Elutsükli andmete eksportimine</span><span class="sxs-lookup"><span data-stu-id="8a092-103">Lifecycle data export</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="3581f-104">See leht on jaotises arendus.</span><span class="sxs-lookup"><span data-stu-id="3581f-104">This page is under development.</span></span>
+> <span data-ttu-id="8a092-104">See leht on jaotises arendus.</span><span class="sxs-lookup"><span data-stu-id="8a092-104">This page is under development.</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="3581f-105">Kõigi toodete eksportimine</span><span class="sxs-lookup"><span data-stu-id="3581f-105">Export all products</span></span>
-<span data-ttu-id="3581f-106">Kõigi toodete elutsükli andmete eksportimiseks klõpsake nuppu allpool.</span><span class="sxs-lookup"><span data-stu-id="3581f-106">Export lifecycle data for all products by clicking below:</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="8a092-105">Kõigi toodete eksportimine</span><span class="sxs-lookup"><span data-stu-id="8a092-105">Export all products</span></span>
+<span data-ttu-id="8a092-106">Kõigi toodete elutsükli andmete eksportimiseks klõpsake nuppu allpool.</span><span class="sxs-lookup"><span data-stu-id="8a092-106">Export lifecycle data for all products by clicking below:</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="3581f-107">Kõigi toodete eksportimine</span><span class="sxs-lookup"><span data-stu-id="3581f-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="8a092-107">Kõigi toodete eksportimine</span><span class="sxs-lookup"><span data-stu-id="8a092-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-family-and-group"></a><span data-ttu-id="3581f-108">Toodete eksportimine pereliikmete ja rühmade kaupa</span><span class="sxs-lookup"><span data-stu-id="3581f-108">Export products by Family and Group</span></span>
-<span data-ttu-id="3581f-109">Valige perekond ja seejärel eksportimiseks rühm.</span><span class="sxs-lookup"><span data-stu-id="3581f-109">Select a Family and then a Group to export.</span></span> <span data-ttu-id="3581f-110">Märkus: eksportimine algab siis, kui valitud on väärtus Rühmita.</span><span class="sxs-lookup"><span data-stu-id="3581f-110">Note: Export will begin when Group value is selected.</span></span> 
+## <a name="export-products-by-family-and-group"></a><span data-ttu-id="8a092-108">Toodete eksportimine pereliikmete ja rühmade kaupa</span><span class="sxs-lookup"><span data-stu-id="8a092-108">Export products by Family and Group</span></span>
+<span data-ttu-id="8a092-109">Valige perekond ja seejärel eksportimiseks rühm.</span><span class="sxs-lookup"><span data-stu-id="8a092-109">Select a Family and then a Group to export.</span></span> <span data-ttu-id="8a092-110">Märkus: eksportimine algab siis, kui valitud on väärtus Rühmita.</span><span class="sxs-lookup"><span data-stu-id="8a092-110">Note: Export will begin when Group value is selected.</span></span> 
 
 > [!div class="op_multi_selector" title1="Peretoad" title2="Rühma"]
 > - [(.NET | Kõik](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -52,6 +52,8 @@ ms.locfileid: "905206"
 > - [(Microsoft Connected Services Framework | Ühendatud teenuste raamistik)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Connected%20Services%20Framework'%20and%20parent/parent/name%20eq%20'Connected%20Services%20Framework')
 > - [(Microsoft Customer Care Framework | Kõik](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Customer%20Care%20Framework')
 > - [(Microsoft Customer Care Framework | Klienditeeninduse raamistik)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Customer%20Care%20Framework'%20and%20parent/parent/name%20eq%20'Customer%20Care%20Framework')
+> - [(Microsoft Edge | Kõik](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Edge')
+> - [(Microsoft Edge | Edge](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Edge'%20and%20parent/parent/name%20eq%20'Edge')
 > - [(Microsoft Internet Explorer | Kõik](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Internet%20Explorer')
 > - [(Microsoft Internet Explorer | Internet Explorer)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Internet%20Explorer'%20and%20parent/parent/name%20eq%20'Internet%20Explorer')
 > - [(Microsoft Office | Kõik](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Office')
@@ -81,8 +83,8 @@ ms.locfileid: "905206"
 > - [(Windows | Turve](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows | Server](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="3581f-169">Toodete eksportimine toetuse kuupäeva lõpu alusel</span><span class="sxs-lookup"><span data-stu-id="3581f-169">Export products by end of support date</span></span>
-<span data-ttu-id="3581f-170">Valige aasta, et kuvada tugiteenuste lõppu ulatuvad tooted.</span><span class="sxs-lookup"><span data-stu-id="3581f-170">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="3581f-171">Märkus: eksportimine algab siis, kui valitud on aasta väärtus.</span><span class="sxs-lookup"><span data-stu-id="3581f-171">Note: Export will begin when Year value is selected.</span></span>
+## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="8a092-171">Toodete eksportimine toetuse kuupäeva lõpu alusel</span><span class="sxs-lookup"><span data-stu-id="8a092-171">Export products by end of support date</span></span>
+<span data-ttu-id="8a092-172">Valige aasta, et kuvada tugiteenuste lõppu ulatuvad tooted.</span><span class="sxs-lookup"><span data-stu-id="8a092-172">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="8a092-173">Märkus: eksportimine algab siis, kui valitud on aasta väärtus.</span><span class="sxs-lookup"><span data-stu-id="8a092-173">Note: Export will begin when Year value is selected.</span></span>
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))
