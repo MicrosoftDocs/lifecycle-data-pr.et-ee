@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Forecast 7,0
-  description: Microsoft Forecast 7,0 järgib määratud elutsükli poliitikat.
+  title: Microsoft Forecaster 7.0
+  description: Microsoft Forecaster 7.0 järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: e9af608bbdf2d19517b58ebe46d545b09078be8d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "813631"
-name: Microsoft Forecast 7,0
+name: Microsoft Forecaster 7.0
 summary: >+
-  Microsoft Forecast 7,0 järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  Microsoft Forecaster 7.0 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
 products:
@@ -40,4 +40,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [Hoolduspaketi poliitika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Prognoosija tugi lõpeb märgitud kuupäevaks, välja arvatud juhul, kui see on jaotatud Dynamics toote koostisosana. Kui Dynamics ' i toode on jaotatud, alistab Dynamics Lifecycle kuupäevad prognoosimise kuupäeva."
+content: "\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [Hoolduspaketi poliitika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Forecasteri tugi lõpeb märgitud kuupäeval, kui seda ei levitata Dynamicsi toote komponendina. Dynamicsi tootega levitamise korral alistavad Dynamicsi elutsükli kuupäevad Forecasteri kuupäeva."

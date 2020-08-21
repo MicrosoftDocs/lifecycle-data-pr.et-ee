@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft intelligentne rakenduse lüüs 2007
-  description: Microsoft intelligentne rakenduse lüüs 2007 järgib määratud elutsükli poliitikat.
+  title: Microsoft Intelligent Application Gateway 2007
+  description: Microsoft Intelligent Application Gateway 2007 järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6e5cc4784788d27433b7525f6a900cbc1e9f0713
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "813719"
-name: Microsoft intelligentne rakenduse lüüs 2007
+name: Microsoft Intelligent Application Gateway 2007
 summary: >
-  Microsoft intelligentne rakenduse lüüs 2007 järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  Microsoft Intelligent Application Gateway 2007 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
 
   > [!IMPORTANT]
 
-  > Selle toote tugi on lõppenud. Vt allpool teemast migreerimise juhised.
+  > Selle toote tugi on lõppenud. Vaadake allpool migreerimisjuhiseid.
 products:
 - microsoft-servers
 policyType: fixed
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 06/01/2007
   endDate: 10/14/2008
-content: "\n## <a name=\"links\"></a>Lingid \n* [Microsoft intelligentne rakenduse lüüsi 2007 teejuht](/archive/blogs/testtesttestbug/important-changes-to-the-forefront-product-line)\n* [Hoolduspaketi poliitika](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Lingid \n* [Microsoft Intelligent Application Gateway 2007 tegevuskava](/archive/blogs/testtesttestbug/important-changes-to-the-forefront-product-line)\n* [Hoolduspaketi poliitika](/lifecycle/policies/fixed#service-packs)"

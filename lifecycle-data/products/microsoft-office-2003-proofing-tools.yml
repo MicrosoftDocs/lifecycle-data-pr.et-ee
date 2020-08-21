@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office 2003 õigekeelsusriistad
-  description: Microsoft Office 2003 õigekeelsusriistad järgib määratud elutsükli poliitikat.
+  title: Microsoft Office 2003 õigekeelsustööriistad
+  description: Microsoft Office 2003 õigekeelsustööriistad järgivad fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: f21b3139ecce220ee29ff6979ea99f6169fe0149
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "813987"
-name: Microsoft Office 2003 õigekeelsusriistad
+name: Microsoft Office 2003 õigekeelsustööriistad
 summary: >+
-  Microsoft Office 2003 õigekeelsusriistad järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  Microsoft Office 2003 õigekeelsustööriistad järgivad [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
 products:

@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Customer Care Framework 2009
-  description: Microsoft Customer Care Framework 2009 järgib määratud elutsükli poliitikat.
+  description: Microsoft Customer Care Framework 2009 järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: 07cce0f3cd5c2fc54a88defb59031e3e9f8f04e8
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "813640"
 name: Microsoft Customer Care Framework 2009
 summary: >
-  Microsoft Customer Care Framework 2009 järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  Microsoft Customer Care Framework 2009 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
 
   > [!IMPORTANT]
 
-  > Tugi on lõppenud. Vt allpool teemast migreerimise juhised.
+  > Tugi on lõppenud. Vaadake allpool migreerimisjuhiseid.
 products:
 - customer-care-framework
 policyType: fixed

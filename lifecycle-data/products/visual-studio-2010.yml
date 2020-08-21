@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2010
-  description: Visual Studio 2010 järgib määratud elutsükli poliitikat.
+  description: Visual Studio 2010 järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: 30c112ab23bba45aaec60660ab85c362bcebf030
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "813146"
 name: Visual Studio 2010
 summary: >+
-  Visual Studio 2010 järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  Visual Studio 2010 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
-  See kehtib järgmiste väljaannete kohta: agendid, kõik, ASP .NET MVC 4, Express, F # 2,0 Runtime, lab Management, Performance tööriistad, Premium, Professional, Remote Silur, SDK, Shell (integreeritud), Shell (isoleeritud), Team agendid, Team Explorer, test Professional, tööriistad Office System 4,0 Runtime, Ultimate, VB Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, visualiseerimine & modelleerimine SDK
+  See kehtib järgmiste väljaannete kohta: Agendid, kõik, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, jõudlustööriistad, Premium, Professional, kaugsilur, SDK, Shell (integreeritud), Shell (isoleeritud), meeskonnaagendid, Team Explorer, Test Professional, Tööriistad: Office System 4.0 Runtime, Ultimate, VB Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Modeling SDK
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Lingid \n* [Hoolduspaketi poliitika](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Väljaanded \n* Agentide\n* Kõik\n* ASP .NET MVC 4\n* Kiire\n* F # 2,0 Runtime\n* Lab haldus\n* Jõudluse tööriistad\n* Premium\n* Professional\n* Kaug-Silur\n* SDK\n* Shell (integreeritud)\n* Shell (isoleeritud)\n* Töörühma agendid\n* Team Explorer\n* Professional test\n* Office Systemi 4,0 käitusaja tööriistad\n* Ultimate\n* VB Ekspress\n* Visual C# Ekspress\n* Visual C++ Ekspress\n* Visual Web Developer Express\n* Visualiseeringute & modelleerimise SDK"
+content: "\n## <a name=\"links\"></a>Lingid \n* [Hoolduspaketi poliitika](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Väljaanded \n* Agendid\n* Kõik\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Runtime\n* Lab Management\n* Jõudlustööriistad\n* Premium\n* Professional\n* Kaugsilur\n* SDK\n* Shell (integreeritud)\n* Shell (isoleeritud)\n* Meeskonnaagendid\n* Team Explorer\n* Test Professional\n* Office System 4.0 Runtime’i tööriistad\n* Ultimate\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Visualization & Modeling SDK"

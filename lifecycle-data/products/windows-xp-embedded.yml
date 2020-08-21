@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows XP Embedded
-  description: Windows XP Embedded järgib määratud elutsükli poliitikat.
+  description: Windows XP Embedded järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2259d8ae34d4c63ad67bf4966d15bf71f2faa04c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "813129"
 name: Windows XP Embedded
 summary: >
-  Windows XP Embedded järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  Windows XP Embedded järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
-  See kehtib järgmiste väljaannete kohta: manustatud
+  See kehtib järgmiste väljaannete kohta: Embedded
 
 
   > [!IMPORTANT]
@@ -40,4 +40,4 @@ releases:
 - version: Original Release
   startDate: 01/30/2002
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Lingid \n* [Windows XP manustatud tugi](https://support.microsoft.com/help/18581)\n\n\n## <a name=\"editions\"></a>Väljaanded \n* Embedded"
+content: "\n## <a name=\"links\"></a>Lingid \n* [Windows XP Embeddedi tugi](https://support.microsoft.com/help/18581)\n\n\n## <a name=\"editions\"></a>Väljaanded \n* Embedded"
