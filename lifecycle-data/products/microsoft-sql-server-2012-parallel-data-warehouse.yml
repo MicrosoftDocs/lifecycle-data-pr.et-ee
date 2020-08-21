@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft SQL Server 2012 Parallel Data Warehouse (Analyticsi platvormi süsteem)
-  description: Microsoft SQL Server 2012 paralleelne andmebaas (Analytics Platform System) järgib määratud elutsükli poliitikat.
+  title: Microsoft SQL Server 2012 paralleellandmete ladu (Analyticsi platvormsüsteem)
+  description: Microsoft SQL Server 2012 paralleelandmete ladu (Analyticsi platvormsüsteem) järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: 78651a46cb453708bccc394e512756a7c24b599d
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "868977"
-name: Microsoft SQL Server 2012 Parallel Data Warehouse (Analyticsi platvormi süsteem)
+name: Microsoft SQL Server 2012 paralleellandmete ladu (Analyticsi platvormsüsteem)
 summary: >
-  Microsoft SQL Server 2012 paralleelne andmebaas (Analytics Platform System) järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  Microsoft SQL Server 2012 paralleelandmete ladu (Analyticsi platvormsüsteem) järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
 
   > [!IMPORTANT]
 
-  > SQL Server 2012 paralleelsed andmed Warehouse (PDW) on rebranded APS (Analytics platvormi süsteem)
+  > SQL Server 2012 paralleelandmete lao (PDW) uus nimi on APS (Analytics Platform System).
 products:
 - sql-server
 policyType: fixed

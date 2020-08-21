@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Lync Server 2010
-  description: Microsoft Lync Server 2010 järgib määratud elutsükli poliitikat.
+  description: Microsoft Lync Server 2010 järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/30/2020
   ms.openlocfilehash: 093060d50a15334bdeac1891bf7828d50ad0f9dc
   ms.sourcegitcommit: e219a019691b1cde9e6f715e4e725b5861450d57
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/31/2020
   ms.locfileid: "879447"
 name: Microsoft Lync Server 2010
 summary: >+
-  Microsoft Lync Server 2010 järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  Microsoft Lync Server 2010 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
   See kehtib järgmiste väljaannete kohta: Enterprise, Group Chat Software Development Kit, SDK, Standard
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/13/2021
-content: "\n## <a name=\"links\"></a>Lingid \n* [Lync Phone Edition](/lifecycle/products/microsoft-lync-phone-edition?branch=live)\n\n> [!NOTE]\n> Lynci telefoni väljaannet toetatakse Lync Server 2010 ja Lync Server 2013. Lync Phone Editioni tugiteenuste kuupäeva pikendati 2 aastat, et viia see kooskõlla Lync Server 2013 elutsükliga.\n\n## <a name=\"editions\"></a>Väljaanded \n* Enterprise\n* Group Chat Software Development Kit\n* SDK\n* Standard"
+content: "\n## <a name=\"links\"></a>Lingid \n* [Lynci telefoniväljaanne](/lifecycle/products/microsoft-lync-phone-edition?branch=live)\n\n> [!NOTE]\n> Lync Phone Editionit toetavad Lync Server 2010 ja Lync Server 2013. Lync Phone Editioni toe kuupäeva on pikendatud 2 aastat, et ühilduda Lync Server 2013 elutsükliga.\n\n## <a name=\"editions\"></a>Väljaanded \n* Enterprise\n* Group Chat Software Development Kit\n* SDK\n* Standard"
