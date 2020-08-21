@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure ' i teabeõiguste kaitse klient
-  description: Azure ' i teabe kaitse klient järgib tänapäevase elutsükli poliitikat.
+  title: 'Azure’i teabekaitse klient:'
+  description: Azure'i teabekaitse klient järgib kaasaegse elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a7e2c02d8f1d7ca3f071b5f36b97eab364b3340
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "852148"
-name: Azure ' i teabeõiguste kaitse klient
+name: 'Azure’i teabekaitse klient:'
 summary: >+
-  Azure ' i teabe kaitse klient järgib [tänapäevase](/lifecycle/policies/modern) elutsükli poliitikat.
+  Azure'i teabekaitse klient järgib [kaasaegse](/lifecycle/policies/modern) elutsükli poliitikat.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 10/01/2016
   endDate: 03/31/2021
-content: "\n## <a name=\"links\"></a>Lingid \n* [Teabe teenindamine](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [Migreerimise juhised](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n> [!NOTE]\n> Ühtsete ja sujuvate klientide kogemuse tagamiseks on Azure ' i portaalis Azure ' i teabeõiguste kaitse klient (klassikaline) ja siltide haldamine aegunud 31. märtsi 2021 seisuga. See aeg-raam võimaldab kõigil praegustel Azure ' i teabe kaitsmise klientidel üle minna meie ühtsele märgistamise lahendusele, kasutades Microsoft Information Protection Unified Labeling Platform."
+content: "\n## <a name=\"links\"></a>Lingid \n* [Teeninduse teave](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [Migreerimise juhised](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n> [!NOTE]\n> Ühtse ja sujuva kliendikogemuse pakkumiseks aeguvad Azure’i teabekaitse klient (klassikaline) ja sildihaldus Azure'i portaalis alates 31. märts 2021. See ajaline raamistik võimaldab kõigil praegustel Azure'i teabekaitse klientidel Microsofti teabekaitse ühendatud sildistamise platvormi abil meie ühtsele sildistamislahendusele üle minna."

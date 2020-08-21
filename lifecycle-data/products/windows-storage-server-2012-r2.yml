@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windowsi salvestusruumi Server 2012 R2
-  description: Windowsi salvestusruumi Server 2012 R2 järgib määratud elutsükli poliitikat.
+  title: Windows Storage Server 2012 R2
+  description: Windows Storage Server 2012 R2 järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4a27e9c473e898353e7d8d5f47cf6e19274320d8
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "852563"
-name: Windowsi salvestusruumi Server 2012 R2
+name: Windows Storage Server 2012 R2
 summary: >+
-  Windowsi salvestusruumi Server 2012 R2 järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  Windows Storage Server 2012 R2 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
-  See kehtib järgmiste väljaannete kohta: Essentials, Standard, töörühm
+  See kehtib järgmiste väljaannete kohta: Essentials, Standard, Workgroup
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2013
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](/windows-server/upgrade/upgrade-2012r2-to-2019)\n\n> [!NOTE]\n> Selle toote mainstream ja pikendatud tugi on laiendatud, et pakkuda klientidele standardse elutsükli ülemineku ajaskaalat.\n> [!NOTE]\n> Essentialsi väljaande alguskuupäev on 25. septembril, 2014. \n\n## <a name=\"editions\"></a>Väljaanded \n* Essentials\n* Standard\n* Töörühm"
+content: "\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](/windows-server/upgrade/upgrade-2012r2-to-2019)\n\n> [!NOTE]\n> Selle toote tavatuge ja pikendatud tuge on laiendatud, et pakkuda klientidele standardset elutsükli ülemineku ajaskaalat.\n> [!NOTE]\n> Essentialsi väljaande alguskuupäev on 25. september 2014. \n\n## <a name=\"editions\"></a>Väljaanded \n* Essentials\n* Standard\n* Workgroup"

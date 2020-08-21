@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center 2012 Endpoint Protection
-  description: Microsoft System Center 2012 Endpoint Protection järgib määratud elutsükli poliitikat.
+  title: Microsoft System Center 2012 lõpp-punkti kaitse
+  description: Microsoft System Center 2012 lõpp-punkti kaitse järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: 831df2c41a088376f7cb34fb117163dc45ade4ed
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "852373"
-name: Microsoft System Center 2012 Endpoint Protection
+name: Microsoft System Center 2012 lõpp-punkti kaitse
 summary: >+
-  Microsoft System Center 2012 Endpoint Protection järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  Microsoft System Center 2012 lõpp-punkti kaitse järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
-  See kehtib järgmiste väljaannete kohta: for Mac
+  See kehtib järgmiste väljaannete kohta: Maci jaoks
 
 products:
 - msc
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Lingid \n* [Teabe teenindamine](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [Migreerimise juhised](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [Hoolduspaketi poliitika](/lifecycle/policies/fixed#service-packs)\n* [System Center dokumentatsioon](/system-center/#pivot=components&panel=components-all)\n\n> [!NOTE]\n> Kliendid peavad jääma olemasolevaks uusima Ründevaratõrje platvormi värskenduse täielikuks toetamiseks.\n\n## <a name=\"editions\"></a>Väljaanded \n* Maci jaoks"
+content: "\n## <a name=\"links\"></a>Lingid \n* [Teeninduse teave](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [Migreerimise juhised](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [Hoolduspaketi poliitika](/lifecycle/policies/fixed#service-packs)\n* [System Centeri dokumentatsioon](/system-center/#pivot=components&panel=components-all)\n\n> [!NOTE]\n> Kliendid peavad jääma ajakohaseks uusima ründevaratõrje platvormi värskendusega, et olla täielikult toetatud.\n\n## <a name=\"editions\"></a>Väljaanded \n* Maci jaoks"

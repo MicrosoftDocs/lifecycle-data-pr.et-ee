@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft System Center Configuration Manager 2007 R3
-  description: Microsoft System Center Configuration Manager 2007 R3 järgib määratud elutsükli poliitikat.
+  description: Microsoft System Center Configuration Manager 2007 R3 järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: cffcc1c2bb51fc5023fe6ad29d62132141ffedb2
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "852589"
 name: Microsoft System Center Configuration Manager 2007 R3
 summary: >
-  Microsoft System Center Configuration Manager 2007 R3 järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  Microsoft System Center Configuration Manager 2007 R3 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
 
   > [!IMPORTANT]
 
-  > Selle toote tugi on lõppenud. Vt allpool teemast migreerimise juhised.
+  > Selle toote tugi on lõppenud. Vaadake allpool migreerimisjuhiseid.
 products:
 - msc
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 12/19/2010
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [Migreerimise täiendavad juhised](/mem/configmgr/core/migration/planning-for-migration)"
+content: "\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [Täiendavad migreerimisjuhised](/mem/configmgr/core/migration/planning-for-migration)"
