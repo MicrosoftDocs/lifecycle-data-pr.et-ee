@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Server 2008
-  description: Windows Server 2008 järgib määratud elutsükli poliitikat.
+  description: Windows Server 2008 järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: cb16ce7326c75c0c560a1b8a0078d03656d58c21
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "813853"
 name: Windows Server 2008
 summary: >
-  Windows Server 2008 järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  Windows Server 2008 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
-  See kehtib järgmiste väljaannete kohta: Datacenter, Andmekeskuse, V. a Hyper-V, Enterprise, Enterprise, without Hyper-V, Itaniumi-põhistele süsteemidele, sihtasutusele, standardile, standardile, V
+  See kehtib järgmiste väljaannete kohta: Datacenter, Datacenter ilma Hyper-V-ta, Enterprise, Enterprise ilma Hyper-V- ta, Itaniumi-põhistele süsteemidele, Foundation, Standard, Standard ilma Hyper-V-ta, Web
 
 
   > [!IMPORTANT]
 
-  > Selle toote tugi on lõppenud. Vt allpool teemast migreerimise juhised.
+  > Selle toote tugi on lõppenud. Vaadake allpool migreerimisjuhiseid.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 05/06/2008
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](https://aka.ms/AA1ovn4)\n* [Serveri uuenduste teave](/windows-server/upgrade/upgrade-overview)\n* [Laiendatud turvavärskenduse programm (ESÜD)](/lifecycle/faq/extended-security-updates)\n* [Hoolduspaketi poliitika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Laiendatud turvavärskendused (ESÜD) on saadaval spetsiaalsete hulgilitsentsimise programmide jaoks, mis on saadaval selle toote väljaannete jaoks, kuni kolme aasta jooksul pärast toetuse lõppu. Lisateabe saamiseks pöörduge oma Microsofti partneri või konto töörühma poole. \n\nVäljalaske--------------------------------alguskuupäev----lõppkuupäev\n\nLaiendatud turbevärskenduse aasta 3---01/11/2022---01/10/2023\n\nTurvavärskenduse laiendatud aasta 2---01/12/2021---01/11/2022\n\nLaiendatud turbevärskenduse aasta 1---01/14/2020---01/12/2021\n> [!NOTE]\n> Windows Server 2008 sihtasutus on välja antud 21 mai 2009\n\n## <a name=\"editions\"></a>Väljaanded \n* Datacenter\n* Andmekeskuse, millel pole Hyper-V\n* Enterprise\n* Enterprise, millel pole Hyper-V\n* Itaniumi-põhistele süsteemidele\n* Fondi\n* Standard\n* Standard, mis ei ole Hyper-V\n* Web"
+content: "\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](https://aka.ms/AA1ovn4)\n* [Serveri täienduse teave](/windows-server/upgrade/upgrade-overview)\n* [Laiendatud turbevärskendusprogramm (ESU)](/lifecycle/faq/extended-security-updates)\n* [Hoolduspaketi poliitika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Laiendatud turbevärskendused (ESU) on läbi kindlate hulgilitsentsimisprogrammide saadaval selle toote versioonidele Datacenter, Standard, Enterprise ja Embedded veel kolmeks lisa-aastaks peale tugiteenuste osutamise lõppu. Lisateabe saamiseks pöörduge oma Microsofti partneri või kontomeeskonna poole. \n\nVäljaanne-------------------------------Alguskuupäev----Lõppkuupäev\n\nLaiendatud turbevärskenduse 3. aasta---01/11/2022---01/10/2023\n\nLaiendatud turbevärskenduse 2. aasta---01/12/2021---01/11/2022\n\nLaiendatud turbevärskenduse 1. aasta---01/14/2020---01/12/2021\n> [!NOTE]\n> Windows Server 2008 Foundationi 21. mai 2009 väljaanne\n\n## <a name=\"editions\"></a>Väljaanded \n* Datacenter\n* Datacenter ilma Hyper-V-ta\n* Enterprise\n* Enterprise ilma Hyper-V-ta\n* Itaniumi-põhistele süsteemidele\n* Foundation\n* Standard\n* Standard ilma Hyper-V-ta\n* Web\n\n"

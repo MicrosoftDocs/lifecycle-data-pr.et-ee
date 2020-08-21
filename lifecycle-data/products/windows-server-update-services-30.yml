@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Server Update Services 3,0
-  description: Windows Server Update Services 3,0 järgib määratud elutsükli poliitikat.
+  title: Windows Server Update Services 3.0
+  description: Windows Server Update Services 3.0 järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: b5e6ed046b5497010706f64c93962f1c4af0e2a0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "813851"
-name: Windows Server Update Services 3,0
+name: Windows Server Update Services 3.0
 summary: >
-  Windows Server Update Services 3,0 järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  Windows Server Update Services 3.0 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
 
   > [!IMPORTANT]
 
-  > Tugi on lõppenud. Vt allpool teemast migreerimise juhised.
+  > Tugi on lõppenud. Vaadake allpool migreerimisjuhiseid.
 products:
 - windows
 policyType: fixed
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 07/10/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](https://technet.microsoft.com/library/mt772341%28WS.11%29.aspx)\n* [Hoolduspaketi poliitika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Tuge pikendati 7/11/2017-lt 1/14/2020."
+content: "\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](https://technet.microsoft.com/library/mt772341%28WS.11%29.aspx)\n* [Hoolduspaketi poliitika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Toetust pikendati 11.07.2017 kuni 14.01.2020."

@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft SQL Server 2005
-  description: Microsoft SQL Server 2005 järgib määratud elutsükli poliitikat.
+  description: Microsoft SQL Server 2005 järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: cbfadc2995b179c7ee286f02fb5e78cc01d7db8f
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "813173"
 name: Microsoft SQL Server 2005
 summary: >
-  Microsoft SQL Server 2005 järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  Microsoft SQL Server 2005 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
-  See kehtib järgmiste väljaannete kohta: kompaktne, arendaja, manustatud, Enterprise, Enterprise Itaniumi-põhistele süsteemidele, Enterprise x64, Express, Express koos täpsemate teenustega, standardne, Standard Itaniumi-põhistele süsteemidele, standardne x64, töörühm
+  See kehtib järgmiste väljaannete kohta: Compact, Developer, Embedded, Enterprise, Enterprise for Itanium-based Systems, Enterprise X64, Express, Express with Advanced Services, Standard, Standard for Itanium-based Systems, Standard X64, Workgroup
 
 
   > [!IMPORTANT]
 
-  > Selle toote tugi on lõppenud. Vt allpool teemast migreerimise juhised.
+  > Selle toote tugi on lõppenud. Vaadake allpool migreerimisjuhiseid.
 products:
 - sql-server
 policyType: fixed
@@ -43,4 +43,4 @@ releases:
 - version: Original Release
   startDate: 01/14/2006
   endDate: 07/10/2007
-content: "\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Hoolduspaketi poliitika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft SQL Server 2005 Compact Edition vabastatakse 19 veebruar, 2007.\n\n## <a name=\"editions\"></a>Väljaanded \n* Kompaktne\n* Arendaja\n* Embedded\n* Enterprise\n* Enterprise Itaniumi-põhistele süsteemidele\n* Enterprise x64\n* Kiire\n* Täiustatud teenustega Ekspress\n* Standard\n* Standard Itaniumi-põhistele süsteemidele\n* Standardne x64\n* Töörühm"
+content: "\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Hoolduspaketi poliitika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft SQL Server 2005 Compact Edition, välja antud 19. veebruaril 2007.\n\n## <a name=\"editions\"></a>Väljaanded \n* Compact\n* Developer\n* Embedded\n* Enterprise\n* Enterprise for Itanium-based Systems\n* Enterprise X64\n* Express\n* Express koos täpsemate teenustega\n* Standard\n* Standard for Itanium-based Systems\n* Standard X64\n* Workgroup"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Winternals
-  description: Winternals järgib määratud elutsükli poliitikat.
+  description: Winternals järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: c53494de8a74f1c533ad0de10eff126605f0d85a
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "813127"
 name: Winternals
 summary: >+
-  Winternals järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  Winternals järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
-  See kehtib järgmiste väljaannete kohta: administraatori Pak 5,0, defrag Manager 3,0, Protection Manager 2,0, Recovery Manager 3,0
+  See kehtib järgmiste väljaannete kohta: Administrator's Pak 5.0, Defrag Manager 3.0, Protection Manager 2.0, Recovery Manager 3.0
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2007
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Lingid \n* [Microsoft omandamise elutsükli poliitika](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> Välistab varem toetatud versioonid. Selle toote tugi kehtib selle omandamise tingimuste kohta.\n\n## <a name=\"editions\"></a>Väljaanded \n* Administraatori Pak 5,0\n* Kasulik Manager 3,0\n* Protection Manager 2,0\n* Recovery Manager 3,0"
+content: "\n## <a name=\"links\"></a>Lingid \n* [Microsofti soetuste elutsükli poliitika](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> Välistab varem lõpetatud toega versioonid. Selle toote tugiteenusele kehtivad selle omandamise tingimused.\n\n## <a name=\"editions\"></a>Väljaanded \n* Administrator's Pak 5.0\n* Defrag Manager 3.0\n* Protection Manager 2.0\n* Recovery Manager 3.0"
