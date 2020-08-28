@@ -2,19 +2,19 @@
 metadata:
   title: Windows Server 2012
   description: Windows Server 2012 järgib fikseeritud elutsükli poliitikat.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 3afe3de568f6e9b7eef58b6af132ff3ad4526724
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 08/21/2020
+  ms.openlocfilehash: c6ef77a2f2ee2a4579f3258e26b189e3600db600
+  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
   ms.translationtype: HT
   ms.contentlocale: et-EE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "852618"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906948"
 name: Windows Server 2012
 summary: >+
   Windows Server 2012 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
-  See kehtib järgmiste väljaannete kohta: Datacenter, Essentials, Embedded Systemsi jaoks, Foundation, Standard
+  See kehtib järgmiste väljaannete kohta: Andmekeskus, Essentials, väline liitmik seotud süsteemidele, Foundation, Standard
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](/windows-server/upgrade/upgrade-overview)\n* [Toote teave](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> Selle toote tavatuge ja pikendatud tuge on laiendatud, et pakkuda klientidele standardset elutsükli ülemineku ajaskaalat. Windows Server Essentials, välja antud 2. jaanuaril 2013.\n\n## <a name=\"editions\"></a>Väljaanded \n* Datacenter\n* Essentials\n* Embedded Systemsi jaoks\n* Foundation\n* Standard"
+content: "\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](/windows-server/upgrade/upgrade-overview)\n* [Toote teave](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> Selle toote tavatuge ja pikendatud tuge on laiendatud, et pakkuda klientidele standardset elutsükli ülemineku ajaskaalat. Windows Server Essentials, välja antud 2. jaanuaril 2013.\n\n## <a name=\"editions\"></a>Väljaanded \n* Datacenter\n* Essentials\n* Väline liitmik\n* Embedded Systemsi jaoks\n* Foundation\n* Standard"

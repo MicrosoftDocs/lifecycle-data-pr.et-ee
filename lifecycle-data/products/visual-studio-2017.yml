@@ -2,19 +2,19 @@
 metadata:
   title: Visual Studio 2017
   description: Visual Studio 2017 järgib fikseeritud elutsükli poliitikat.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 28e7d911a453418021aba3ecfa7e96ca8c5ed73f
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 5393d8d0a5210f109a1bdfd96a90aeceed2c9d7e
+  ms.sourcegitcommit: b125c146eb503d123a9ec7f50c08922926fb7f0e
   ms.translationtype: HT
   ms.contentlocale: et-EE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "868901"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "907099"
 name: Visual Studio 2017
 summary: >+
   Visual Studio 2017 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
-  See kehtib järgmiste väljaannete kohta: Agendid, Build Tools, Community, Enterprise, Feedback Client, Maci jaoks, IntelliTrace Standalone Collector, jõudlustööriistad, Professional, kaugtööriistad, Team Explorer, Test Professional, Visual C++ Redistributable
+  See kehtib järgmistele väljaannetele: Agendid, Build Tools, Community, Enterprise, Feedback Client, Maci jaoks, IntelliTrace Standalone Collector, jõudlustööriistad, Professional, kaugtööriistad, Team Explorer, Test Professional, Visual C++ taaslevitatav
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Version 15.0
   startDate: 03/07/2017
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Lingid \n* [Teadaanne](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)\n* [Teeninduse teave](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)\n\n\n## <a name=\"editions\"></a>Väljaanded \n* Agendid\n* Build Tools\n* Community\n* Enterprise\n* Feedback Client\n* Maci jaoks\n* IntelliTrace Standalone Collector\n* Jõudlustööriistad\n* Professional\n* Remote Tools\n* Team Explorer\n* Test Professional\n* Visual C++ Redistributable"
+content: "\n## <a name=\"links\"></a>Lingid \n* [Teadaanne](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)\n* [Teeninduse teave](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)\n\n\n## <a name=\"editions\"></a>Väljaanded \n* Agendid\n* Build Tools\n* Community\n* Enterprise\n* ESM\n* Feedback Client\n* Maci jaoks\n* IntelliTrace Standalone Collector\n* Jõudlustööriistad\n* Professional\n* PSM\n* Remote Tools\n* Team Explorer\n* Test Professional\n* Visual C++ Redistributable"
