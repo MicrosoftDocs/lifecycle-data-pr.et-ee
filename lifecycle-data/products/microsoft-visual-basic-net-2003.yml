@@ -2,19 +2,20 @@
 metadata:
   title: Microsoft Visual Standard .NET 2003
   description: Microsoft Visual .NET-i 2003 järgib määratud elutsükli poliitikat.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: aa66f6d0e0a3cd91eb4a22845d303643d8482004
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: a709317781cb79dd954af31cb81d916d4476b0ab
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: et-EE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "813556"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "938146"
 name: Microsoft Visual Standard .NET 2003
 summary: >+
   Microsoft Visual .NET-i 2003 järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
-  See kehtib järgmiste väljaannete kohta: standardne
+  See kehtib järgmiste väljaannete kohta: Standard
 
 products:
 - vs

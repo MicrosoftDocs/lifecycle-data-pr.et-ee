@@ -2,13 +2,14 @@
 metadata:
   title: Windows Server 2008
   description: Windows Server 2008 järgib fikseeritud elutsükli poliitikat.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: cb16ce7326c75c0c560a1b8a0078d03656d58c21
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Datacenter,Datacenter without Hyper-V,Enterprise,Enterprise without Hyper-V,for Itanium-Based Systems,Foundation,Standard,Standard without Hyper-V,Web
+  ms.openlocfilehash: 30b07c95bb7d37ab822e5e2238983fd70d918889
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: et-EE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "813853"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939515"
 name: Windows Server 2008
 summary: >
   Windows Server 2008 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
@@ -34,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 05/06/2008
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](https://aka.ms/AA1ovn4)\n* [Serveri täienduse teave](/windows-server/upgrade/upgrade-overview)\n* [Laiendatud turbevärskendusprogramm (ESU)](/lifecycle/faq/extended-security-updates)\n* [Hoolduspaketi poliitika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Laiendatud turbevärskendused (ESU) on läbi kindlate hulgilitsentsimisprogrammide saadaval selle toote versioonidele Datacenter, Standard, Enterprise ja Embedded veel kolmeks lisa-aastaks peale tugiteenuste osutamise lõppu. Lisateabe saamiseks pöörduge oma Microsofti partneri või kontomeeskonna poole. \n\nVäljaanne-------------------------------Alguskuupäev----Lõppkuupäev\n\nLaiendatud turbevärskenduse 3. aasta---01/11/2022---01/10/2023\n\nLaiendatud turbevärskenduse 2. aasta---01/12/2021---01/11/2022\n\nLaiendatud turbevärskenduse 1. aasta---01/14/2020---01/12/2021\n> [!NOTE]\n> Windows Server 2008 Foundationi 21. mai 2009 väljaanne\n\n## <a name=\"editions\"></a>Väljaanded \n* Datacenter\n* Datacenter ilma Hyper-V-ta\n* Enterprise\n* Enterprise ilma Hyper-V-ta\n* Itaniumi-põhistele süsteemidele\n* Foundation\n* Standard\n* Standard ilma Hyper-V-ta\n* Web\n\n"
+content: "\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](https://aka.ms/AA1ovn4)\n* [Serveri täienduse teave](/windows-server/upgrade/upgrade-overview)\n* [Laiendatud turbevärskendusprogramm (ESU)](/lifecycle/faq/extended-security-updates)\n* [Hoolduspaketi poliitika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Laiendatud turbevärskendused (ESU) on läbi kindlate hulgilitsentsimisprogrammide saadaval selle toote versioonidele Datacenter, Standard, Enterprise ja Embedded veel kolmeks lisa-aastaks peale tugiteenuste osutamise lõppu. Lisateabe saamiseks pöörduge oma Microsofti partneri või kontomeeskonna poole. \n\nVäljaanne-------------------------------Alguskuupäev----Lõppkuupäev\n\nLaiendatud turbevärskenduse 3. aasta---01/11/2022---01/10/2023\n\nLaiendatud turbevärskenduse 2. aasta---01/12/2021---01/11/2022\n\nLaiendatud turbevärskenduse 1. aasta---01/14/2020---01/12/2021\n> [!NOTE]\n> Windows Server 2008 Foundationi 21. mai 2009 väljaanne\n\n## <a name=\"editions\"></a>Väljaanded \n* Datacenter\n* Datacenter ilma Hyper-V-ta\n* Enterprise\n* Enterprise ilma Hyper-V-ta\n* Itaniumi-põhistele süsteemidele\n* Foundation\n* Standard\n* Standard ilma Hyper-V-ta\n* Web\n"

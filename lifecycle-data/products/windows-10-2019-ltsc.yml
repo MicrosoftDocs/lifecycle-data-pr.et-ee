@@ -2,13 +2,14 @@
 metadata:
   title: Windows 10 2019 LTSC
   description: Windows 10 2019 LTSC järgib fikseeritud elutsükli poliitikat.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9d9eeef3c451afda756aff4666fb85da889772e9
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.date: 09/01/2020
+  keywords: Enterprise
+  ms.openlocfilehash: 8f2cb8af1b8710a291d73e51185d148649d20e53
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: et-EE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "868918"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "938405"
 name: Windows 10 2019 LTSC
 summary: >+
   Windows 10 2019 LTSC järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2018
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Lingid \n* [Windows 10 oktoobrikuu värskenduse (versioon 1809) taasväljaanne](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Windows 10 LTSC-i KKK](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n* [Windows teenusena (WaaS)](/windows/deployment/update/waas-quick-start)\n\n\n## <a name=\"editions\"></a>Väljaanded \n* Enterprise\n\n"
+content: "\n## <a name=\"links\"></a>Lingid \n* [Windows 10 oktoobrikuu värskenduse (versioon 1809) taasväljaanne](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Windows 10 LTSC-i KKK](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n* [Windows teenusena (WaaS)](/windows/deployment/update/waas-quick-start)\n\n\n## <a name=\"editions\"></a>Väljaanded \n* Enterprise\n"
