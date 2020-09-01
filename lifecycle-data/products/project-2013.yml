@@ -2,13 +2,14 @@
 metadata:
   title: Project 2013
   description: Project 2013 järgib määratud elutsükli poliitikat.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 4e9a8e347d9ae095408a296473f39bb5bd05f924
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: Professional,Standard
+  ms.openlocfilehash: a0c7b1031c25aa1c64ea6ba3c0176ec83e4071b6
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: et-EE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "852411"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "926454"
 name: Project 2013
 summary: >+
   Project 2013 järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
