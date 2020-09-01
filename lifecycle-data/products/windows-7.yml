@@ -2,13 +2,14 @@
 metadata:
   title: Windows 7
   description: Windows 7 järgib fikseeritud elutsükli poliitikat.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: a1b1b370fe7d15abae83da62603b4522ea79a307
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Enterprise,Enterprise N,Home Basic,Home Premium,Home Premium N,Professional,Professional for Embedded Systems,Professional N,Starter,Starter N,Ultimate,Ultimate for Embedded Systems,Ultimate N
+  ms.openlocfilehash: 22a494a93015d2e8af3ba5e5893dd2c85daedb3b
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: et-EE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "812987"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939959"
 name: Windows 7
 summary: "Windows 7 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.\n\nSee kehtib järgmiste väljaannete kohta: Enterprise, Enterprise N, Home Basic, Home Premium, Home Premium N, Professional, Professional for Embedded Systems, Professional N, Starter, Starter N, Ultimate, Ultimate for Embedded Systems, Ultimate N\n\n> [!IMPORTANT]\n> Selle toote tugi on lõppenud. Vaadake allpool migreerimisjuhiseid. \n"
 products:
@@ -34,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 10/22/2009
   endDate: 04/09/2013
-content: "> [!TIP]\n> Laiendatud turbevärskendused (ESU) on hulgilitsentsimisprogrammide kaudu saadaval selle toote versioonidele Windows 7 Professional, Enterprise ja Professional for Embedded Systems veel kolmeks lisa-aastaks peale tugiteenuste osutamise lõppu. Lisateabe saamiseks pöörduge oma Microsofti partneri või kontomeeskonna poole. \n\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](https://support.microsoft.com/help/4057281)\n* [Täiendamine versioonilt Windows 7 versioonile Windows 10](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [Laiendatud turbevärskendusprogramm (ESU)](/lifecycle/faq/extended-security-updates)\n* [Hoolduspaketi poliitika](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Väljaanded \n* Enterprise\n* Enterprise N\n* Home Basic\n* Home Premium\n* Home Premium N\n* Professional\n* Professional for Embedded Systems\n* Professional N\n* Starter\n* Starter N\n* Ultimate\n* Ultimate for Embedded Systems\n* Ultimate N\n\n"
+content: "> [!TIP]\n> Laiendatud turbevärskendused (ESU) on hulgilitsentsimisprogrammide kaudu saadaval selle toote versioonidele Windows 7 Professional, Enterprise ja Professional for Embedded Systems veel kolmeks lisa-aastaks peale tugiteenuste osutamise lõppu. Lisateabe saamiseks pöörduge oma Microsofti partneri või kontomeeskonna poole. \n\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](https://support.microsoft.com/help/4057281)\n* [Täiendamine versioonilt Windows 7 versioonile Windows 10](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [Laiendatud turbevärskendusprogramm (ESU)](/lifecycle/faq/extended-security-updates)\n* [Hoolduspaketi poliitika](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Väljaanded \n* Enterprise\n* Enterprise N\n* Home Basic\n* Home Premium\n* Home Premium N\n* Professional\n* Professional for Embedded Systems\n* Professional N\n* Starter\n* Starter N\n* Ultimate\n* Ultimate for Embedded Systems\n* Ultimate N\n"
