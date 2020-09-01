@@ -2,13 +2,14 @@
 metadata:
   title: Exchange Server 2016
   description: Exchange Server 2016 järgib määratud elutsükli poliitikat.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 7d83d6853298231fb4bd84b90ccf197a8029e8a2
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: bad2d3a8e4e33ce78bd15a78145aceb308d0eefb
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: et-EE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "852389"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "931153"
 name: Exchange Server 2016
 summary: >+
   Exchange Server 2016 järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.

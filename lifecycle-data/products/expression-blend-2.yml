@@ -2,13 +2,14 @@
 metadata:
   title: Avaldis 2
   description: Avaldis 2 järgib määratud elutsükli poliitikat.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0ff3dba3df24ff405a22bfacac75ea04ab227f90
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Blend,Design,Encoder,Studio,Web
+  ms.openlocfilehash: 5186f4bbb53b110f625835b0250418a4594bf78b
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: et-EE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "813064"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930820"
 name: Avaldis 2
 summary: "Avaldis 2 järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.\n\nSee kehtib järgmiste väljaannete kohta: Blend, Design, Encoder, Studio, Web\n\n> [!IMPORTANT]\n> Selle toote tugi on lõppenud. \n"
 products:
