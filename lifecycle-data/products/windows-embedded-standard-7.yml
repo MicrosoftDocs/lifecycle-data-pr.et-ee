@@ -2,13 +2,14 @@
 metadata:
   title: Windows Embedded Standard 7
   description: Windows Embedded Standard 7 järgib fikseeritud elutsükli poliitikat.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 2e4b6119250a574a9526e74a7ccea090e02ed61d
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 7f5d0506d9edabddc83dea9cf2a8e7d25433dee1
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: et-EE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "813498"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939885"
 name: Windows Embedded Standard 7
 summary: >+
   Windows Embedded Standard 7 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
@@ -39,4 +40,4 @@ releases:
 - version: Original Release
   startDate: 07/29/2010
   endDate: 04/09/2013
-content: "\n## <a name=\"links\"></a>Lingid \n* [* Laiendatud turbevärskenduste programm (ESU) – laiendatud turbevärskendused valitud Embeddedi toodetele on saadaval OEM-ide kaudu](/lifecycle/faq/extended-security-updates)\n* [Migreerimise juhised](https://support.microsoft.com/help/4057281)\n* [Hoolduspaketi poliitika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> '*Laiendatud turbevärskendused (ESU) on saadaval Windows Embedded Standard 7 jaoks veel kolmeks lisa-aastaks pärast toe lõppu. Lisateabe saamiseks pöörduge oma Microsofti partneri või kontomeeskonna poole.\n\n## <a name=\"editions\"></a>Väljaanded \n* Standard\n\n"
+content: "\n## <a name=\"links\"></a>Lingid \n* [* Laiendatud turbevärskenduste programm (ESU) – laiendatud turbevärskendused valitud Embeddedi toodetele on saadaval OEM-ide kaudu](/lifecycle/faq/extended-security-updates)\n* [Migreerimise juhised](https://support.microsoft.com/help/4057281)\n* [Hoolduspaketi poliitika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> '*Laiendatud turbevärskendused (ESU) on saadaval Windows Embedded Standard 7 jaoks veel kolmeks lisa-aastaks pärast toe lõppu. Lisateabe saamiseks pöörduge oma Microsofti partneri või kontomeeskonna poole.\n\n## <a name=\"editions\"></a>Väljaanded \n* Standard\n"
