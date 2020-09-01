@@ -2,19 +2,20 @@
 metadata:
   title: Outlook 2013
   description: Outlook 2013 järgib määratud elutsükli poliitikat.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: a666f76eeb2a19624b18d542c735fd3d5279899c
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 2678d0bb53f3c29f23028aa934729776d1c73d7c
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: et-EE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "852590"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "926787"
 name: Outlook 2013
 summary: >+
   Outlook 2013 järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
-  See kehtib järgmiste väljaannete kohta: standardne
+  See kehtib järgmiste väljaannete kohta: Standard
 
 products:
 - office
