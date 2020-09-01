@@ -2,19 +2,20 @@
 metadata:
   title: Microsoft Class server 4,0
   description: Microsoft Class server 4,0 järgib määratud elutsükli poliitikat.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: efd4e92bf5426dcdf6e52ce8bcbc679f026ce5ce
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 0edbcc4d8beac695a9fc873ec7ae2d51c06e8f56
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: et-EE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "813656"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "934483"
 name: Microsoft Class server 4,0
 summary: >+
   Microsoft Class server 4,0 järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
-  See kehtib järgmiste väljaannete kohta: standardne
+  See kehtib järgmiste väljaannete kohta: Standard
 
 products:
 - office

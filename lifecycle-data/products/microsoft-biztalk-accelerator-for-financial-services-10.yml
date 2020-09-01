@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft BizTalk Accelerator for Financial Services 1,0
   description: Microsoft BizTalk kiirendi finantsteenuste jaoks 1,0 järgib määratud elutsükli poliitikat.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: dbacf7590c1aa3b0736935e033bbc6c3d2968dab
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: 4e6c4d0bd0d99808dff1c4cd2cf01f6c0ba6adf6
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: et-EE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "813700"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "935334"
 name: Microsoft BizTalk Accelerator for Financial Services 1,0
 summary: >+
   Microsoft BizTalk kiirendi finantsteenuste jaoks 1,0 järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.

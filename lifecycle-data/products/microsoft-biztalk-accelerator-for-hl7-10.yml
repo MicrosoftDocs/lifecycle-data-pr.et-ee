@@ -2,19 +2,20 @@
 metadata:
   title: 'Microsoft BizTalk Accelerator for HL7 1,0 '
   description: Microsoft BizTalk Accelerator for HL7 1,0 järgib määratud elutsükli poliitikat.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: cef326653a2bc78d5b8b20c1dfb907827cd216d3
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 727fa4605cef159b99154e6a57d40c81eab3d619
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: et-EE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "813691"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "935149"
 name: 'Microsoft BizTalk Accelerator for HL7 1,0 '
 summary: >+
   Microsoft BizTalk Accelerator for HL7 1,0 järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
-  See kehtib järgmiste väljaannete kohta: standardne
+  See kehtib järgmiste väljaannete kohta: Standard
 
 products:
 - microsoft-servers
