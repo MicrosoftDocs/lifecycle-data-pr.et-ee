@@ -2,13 +2,14 @@
 metadata:
   title: Windows Server 2008 R2
   description: Windows Server 2008 R2 järgib fikseeritud elutsükli poliitikat.
-  ms.date: 08/27/2020
-  ms.openlocfilehash: 531fe1d11032fd9fb6ae5fa6e4db46d01b7f63e4
-  ms.sourcegitcommit: 0adb28bbd953e938286d5b8fb03cab57a2d18b3b
+  ms.date: 09/01/2020
+  keywords: Datacenter,Enterprise,HPC Edition,Itanium-Based Systems,Standard,Web
+  ms.openlocfilehash: d11313c6b34939376f603efe48a886993b46d8ef
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: et-EE
-  ms.lasthandoff: 08/27/2020
-  ms.locfileid: "922910"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939663"
 name: Windows Server 2008 R2
 summary: "Windows Server 2008 R2 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.\n\nSee kehtib järgmiste väljaannete kohta: Datacenter, Enterprise, HPC Edition, Itaniumi-põhised süsteemid, Standard, Web\n\n> [!IMPORTANT]\n> Selle toote tugi on lõppenud. Vaadake allpool migreerimisjuhiseid. \n"
 products:
@@ -25,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 10/22/2009
   endDate: 04/09/2013
-content: "\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](https://aka.ms/AA1ovn4)\n* [Serveri täienduse teave](/windows-server/upgrade/upgrade-overview)\n* [Laiendatud turbevärskendusprogramm (ESU)](/lifecycle/faq/extended-security-updates)\n* [Hoolduspaketi poliitika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Laiendatud turbevärskendused (ESU) on läbi kindlate hulgilitsentsimisprogrammide saadaval selle toote versioonidele Datacenter, Standard, Enterprise ja Embedded veel kolmeks lisa-aastaks peale tugiteenuste osutamise lõppu. Lisateabe saamiseks pöörduge oma Microsofti partneri või kontomeeskonna poole. \n\nVäljaanne-------------------------------Alguskuupäev----Lõppkuupäev\n\nLaiendatud turbevärskenduse 3. aasta---01/11/2022---01/10/2023\n\nLaiendatud turbevärskenduse 2. aasta---01/12/2021---01/11/2022\n\nLaiendatud turbevärskenduse 1. aasta---01/14/2020---01/12/2021\n\n## <a name=\"editions\"></a>Väljaanded \n* Datacenter\n* Enterprise\n* HPC Edition\n* Itaniumi-põhised süsteemid\n* Standard\n* Web\n\n"
+content: "\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](https://aka.ms/AA1ovn4)\n* [Serveri täienduse teave](/windows-server/upgrade/upgrade-overview)\n* [Laiendatud turbevärskendusprogramm (ESU)](/lifecycle/faq/extended-security-updates)\n* [Hoolduspaketi poliitika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Laiendatud turbevärskendused (ESU) on läbi kindlate hulgilitsentsimisprogrammide saadaval selle toote versioonidele Datacenter, Standard, Enterprise ja Embedded veel kolmeks lisa-aastaks peale tugiteenuste osutamise lõppu. Lisateabe saamiseks pöörduge oma Microsofti partneri või kontomeeskonna poole. \n\nVäljaanne-------------------------------Alguskuupäev----Lõppkuupäev\n\nLaiendatud turbevärskenduse 3. aasta---01/11/2022---01/10/2023\n\nLaiendatud turbevärskenduse 2. aasta---01/12/2021---01/11/2022\n\nLaiendatud turbevärskenduse 1. aasta---01/14/2020---01/12/2021\n\n## <a name=\"editions\"></a>Väljaanded \n* Datacenter\n* Enterprise\n* HPC Edition\n* Itaniumi-põhised süsteemid\n* Standard\n* Web\n"
