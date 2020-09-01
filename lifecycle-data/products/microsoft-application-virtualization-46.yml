@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Application Virtualization 4.6
   description: Microsoft Application Virtualization 4.6 järgib fikseeritud elutsükli poliitikat.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 868274b4468e663afe8e1b9f36069490ab4da025
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: for Remote Desktop Services,for Windows Desktops,Sequencer
+  ms.openlocfilehash: e7ee52090b6e77209d2cc75b5862c21dfe4fe3dd
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: et-EE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "813702"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "935556"
 name: Microsoft Application Virtualization 4.6
 summary: >+
   Microsoft Application Virtualization 4.6 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
@@ -36,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 05/27/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Lingid \n* [Toote- ja migreerimisteave](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Migreerimise juhised](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Hoolduspaketi poliitika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Kuna App-V 4.6 klient kasutab App-V 4.5 Serverit, jätkub App-V 4.5 Serveri tugi vastavalt App-V 4.6 elutsükli kuupäevadele, kui seda kasutatakse toetatud App-V 4.6 kliendiga.\n\n## <a name=\"editions\"></a>Väljaanded \n* kaugtöölaua teenuste jaoks\n* Windows töölaudade jaoks\n* Sequencer\n\n"
+content: "\n## <a name=\"links\"></a>Lingid \n* [Toote- ja migreerimisteave](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Migreerimise juhised](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Hoolduspaketi poliitika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Kuna App-V 4.6 klient kasutab App-V 4.5 Serverit, jätkub App-V 4.5 Serveri tugi vastavalt App-V 4.6 elutsükli kuupäevadele, kui seda kasutatakse toetatud App-V 4.6 kliendiga.\n\n## <a name=\"editions\"></a>Väljaanded \n* kaugtöölaua teenuste jaoks\n* Windows töölaudade jaoks\n* Sequencer\n"
