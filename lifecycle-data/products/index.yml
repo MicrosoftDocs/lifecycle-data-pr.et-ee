@@ -1,11 +1,11 @@
 ### YamlMime:ContentBrowser
 title: Toote ja teenuste elutsükli teabe otsimine (eelvaade)
 browseType: lifecycle
-summary: "\n\n> [!IMPORTANT]\n> See lehekülg on väljatöötamisel ja läheb täielikult eetrisse 2 septembril. Seni võite vaadata Microsofti toodete täielikku loendit, kus on nende tugiteenuste ajakava ja üksikasjad aadressil [aka.MS/Lifecycle/Search](https://aka.ms/lifecycle/search/).\n> [!NOTE]\n> Andmete eksportimine elutsükli teabe lehest [elutsükli eksport](/lifecycle/export/products) .\n\n\nMicrosoft Lifecycle pakub ühtseid ja prognoositavaid juhiseid kogu toote eluea toetamiseks, aidates klientidel hallata oma IT-investeeringuid ja keskkonda ning kavandada strateegiliselt tulevikku.\n\n\nSiit saate teada, kuidas otsida Microsofti äritoodete ja teenuste loendit ning seejärel valida tulemid, et leida tugiteenused ja teeninduse ajaskaalad, nõutavad värskendused, migreerimise teave ja süsteeminõuded."
+summary: "\n\n> [!IMPORTANT]\n> See lehekülg on väljatöötamisel ja käivitub täielikult 2. septembril. Vahepeal võite vaadata Microsofti toodete täielikku loendit koos nende toe ajaskaalade ja üksikasjadega aadressil [aka.ms/lifecycle/search](https://aka.ms/lifecycle/search/). \n> [!NOTE]\n> Saate eksportida elutsükli teabe lehelt [Lifecycle Export](/lifecycle/export/products).\n\n\nMicrosofti elutsükkel pakub järjepidevaid ja prognoositavaid juhiseid toeks kogu toote eluea jooksul, aidates klientidel hallata oma IT-investeeringuid ja keskkondi, planeerides samal ajal strateegiliselt tulevikku.\n\n\nOtsige allpool Microsofti kommertstoodete ja -teenuste loendit ning seejärel valige oma tulemus, et leida tugiteenuseid ja teeninduse ajaskaalasid, vajalikke värskendusi, migreerimisteavet ja süsteeminõudeid."
 metadata:
   ms.openlocfilehash: 5099408b03db5a7d520128dfd1da8271e4289aaa
   ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 08/17/2020
   ms.locfileid: "899835"

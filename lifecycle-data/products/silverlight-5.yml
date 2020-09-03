@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Silverlight 5
-  description: Silverlighti 5 järgib määratud elutsükli poliitikat.
+  description: Silverlight 5 järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2bdc8039724e69c5693e178d5697eb4e7242c3d2
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "868930"
 name: Silverlight 5
 summary: >+
-  Silverlighti 5 järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  Silverlight 5 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2011
   endDate: 10/12/2021
-content: "\n## <a name=\"links\"></a>Lingid \n* [Silverlight 5 toetab siin loetletud brausereid kuni 10/12/2021 või aluseks olevate brauserite elutsükli kaudu, olenevalt sellest, kumb on lühem.](https://www.microsoft.com/getsilverlight/locale/html/installation-win-SL5.html)\n* [Silverlighti toe lõpp](https://support.microsoft.com/help/4511036/silverlight-end-of-support)\n\n> [!NOTE]\n> Microsoft annab enne tööriistade toe lõppemist vähemalt 12 kuud teatise."
+content: "\n## <a name=\"links\"></a>Lingid \n* [Silverlight 5 toetab sellel lehel loetletud brausereid kuni 10.12.2021 või brauserite kogu elutsükli jooksul olenevalt sellest, kumb ajavahemik on lühem.](https://www.microsoft.com/getsilverlight/locale/html/installation-win-SL5.html)\n* [Toe lõppemise kuupäev](https://support.microsoft.com/help/4511036/silverlight-end-of-support)\n\n> [!NOTE]\n> Microsoft teavitab vähemalt 12 kuud ette Tööriistade tootetoe lõpetamisest."

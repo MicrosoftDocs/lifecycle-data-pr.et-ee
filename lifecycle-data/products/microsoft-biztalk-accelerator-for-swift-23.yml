@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft BizTalk Accelerator for SWIFT 2,3
-  description: Microsoft BizTalk Accelerator for SWIFT 2,3 järgib määratud elutsükli poliitikat.
+  title: Microsoft BizTalki toimingukiirendi SWIFT 2.3 jaoks
+  description: Microsoft BizTalki toimingukiirendi SWIFT 2.3 jaoks järgib fikseeritud elutsükli poliitikat.
   ms.date: 08/12/2020
   ms.openlocfilehash: 255f9cf85c3d65c0f2a538c76f9db4eb2489d6b0
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893531"
-name: Microsoft BizTalk Accelerator for SWIFT 2,3
+name: Microsoft BizTalki toimingukiirendi SWIFT 2.3 jaoks
 summary: >+
-  Microsoft BizTalk Accelerator for SWIFT 2,3 järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  Microsoft BizTalki toimingukiirendi SWIFT 2.3 jaoks järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
   See kehtib järgmiste väljaannete kohta: Enterprise, Standard

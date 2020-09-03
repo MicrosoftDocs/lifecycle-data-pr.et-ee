@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio Team Foundation Server 2010
-  description: Visual Studio Team Foundation Server 2010 järgib määratud elutsükli poliitikat.
+  description: Visual Studio Team Foundation Server 2010 järgib fikseeritud elutsükli poliitikat.
   ms.date: 08/21/2020
   ms.openlocfilehash: c0d6be70c5ce001b56c69d5b0ca374b014ecf598
   ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906786"
 name: Visual Studio Team Foundation Server 2010
 summary: >+
-  Visual Studio Team Foundation Server 2010 järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  Visual Studio Team Foundation Server 2010 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
-  See kehtib järgmiste väljaannete kohta: kõik kohaldatavad välised konnektorid
+  See kehtib järgmiste väljaannete kohta: kõik kohaldatavad, External Connector
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [Azure dev Ops](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>Väljaanded \n* Kõik kohaldatavad\n* Väline konnektor"
+content: "\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [Azure Dev Ops](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>Väljaanded \n* Kõik kohaldatavad\n* External Connector"

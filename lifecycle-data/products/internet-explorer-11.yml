@@ -5,7 +5,7 @@ metadata:
   ms.date: 08/12/2020
   ms.openlocfilehash: 62c563784a27bf046f85b65ff75c31ec969d0bb6
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893642"
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/13/2013
-content: "\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](https://www.microsoft.com/itpro/microsoft-edge)\n* [Internet Exploreri elutsükli poliitika KKK](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Alates 12. jaanuarist 2016 saab tehnilise toe ja turvavärskenduste saamiseks kasutada ainult uusimat Internet Exploreri versiooni, mis on saadaval toetatud operatsioonisüsteemi jaoks."
+content: "\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](https://www.microsoft.com/itpro/microsoft-edge)\n* [Internet Exploreri elutsükli poliitika KKK](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Alates 12. jaanuarist 2016 saab tehnilist tuge ja turbevärskendusi ainult toetatud operatsioonisüsteemi jaoks saadaoleva Internet Exploreri kõige uuem versioon.\n\n\n"
