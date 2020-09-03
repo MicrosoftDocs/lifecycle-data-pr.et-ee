@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 9,0 GreatPlains
-  description: Dynamics 9,0 GreatPlains järgib määratud elutsükli poliitikat.
+  title: Dynamics 9.0 GreatPlains
+  description: Dynamics 9.0 GreatPlains järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0015493ad223e4603a77b348f406d9a2df47d315
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "813077"
-name: Dynamics 9,0 GreatPlains
+name: Dynamics 9.0 GreatPlains
 summary: >
-  Dynamics 9,0 GreatPlains järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  Dynamics 9.0 GreatPlains järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
 

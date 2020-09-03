@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center Virtual Machine Manageri 2007
-  description: Microsoft System Center Virtual Machine Manageri 2007 järgib määratud elutsükli poliitikat.
+  title: Microsoft System Center Virtual Machine Manager 2007
+  description: Microsoft System Center Virtual Machine Manager 2007 järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: f56ee87e6d98efe5304c881cf8adecfaa3e103d2
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "813567"
-name: Microsoft System Center Virtual Machine Manageri 2007
+name: Microsoft System Center Virtual Machine Manager 2007
 summary: >
-  Microsoft System Center Virtual Machine Manageri 2007 järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  Microsoft System Center Virtual Machine Manager 2007 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
 
   > [!IMPORTANT]
 
-  > Selle toote tugi on lõppenud. Vt allpool teemast migreerimise juhised.
+  > Selle toote tugi on lõppenud. Vaadake allpool migreerimisjuhiseid.
 products:
 - msc
 policyType: fixed

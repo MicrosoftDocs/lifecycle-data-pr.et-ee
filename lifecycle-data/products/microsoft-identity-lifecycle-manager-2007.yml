@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsofti identiteedi elutsükli haldur 2007
-  description: Microsoft Identity Lifecycle Manageri 2007 järgib määratud elutsükli poliitikat.
+  title: Microsoft Identity elutsükli haldur 2007
+  description: Microsoft Identity elutsükli haldur 2007 järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: e87de30d9ecd945c0aa172fa69f570a981114ab2
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "813299"
-name: Microsofti identiteedi elutsükli haldur 2007
+name: Microsoft Identity elutsükli haldur 2007
 summary: >+
-  Microsoft Identity Lifecycle Manageri 2007 järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  Microsoft Identity elutsükli haldur 2007 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
 products:

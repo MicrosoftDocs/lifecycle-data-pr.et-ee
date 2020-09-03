@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: SoftGrid rakenduste virtualiseerimine
-  description: SoftGrid rakenduse virtualiseerimine järgib määratud elutsükli poliitikat.
+  title: SoftGrid Application Virtualization
+  description: SoftGrid Application Virtualization järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: 17b8078138b718a634c2561ac4b1e73f3966ce24
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "812998"
-name: SoftGrid rakenduste virtualiseerimine
+name: SoftGrid Application Virtualization
 summary: >
-  SoftGrid rakenduse virtualiseerimine järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  SoftGrid Application Virtualization järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
-  See kehtib järgmiste väljaannete kohta: 4,1 for lauaarvutid, 4,2 for lauaarvutid, Terminal Services 4,1
+  See kehtib järgmiste väljaannete kohta: 4.1 lauaarvutitele, 4.2 lauaarvutitele, terminaliteenustele 4.1
 
 
   > [!IMPORTANT]
 
-  > Tugi on lõppenud. Vt allpool teemast migreerimise juhised.
+  > Tugi on lõppenud. Vaadake allpool migreerimisjuhiseid.
 products:
 - windows
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 05/25/2007
   endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Väljaanded \n* 4,1 lauaarvutitele\n* 4,2 lauaarvutitele\n* Terminaliteenuste 4,1"
+content: "\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Väljaanded \n* 4.1 lauaarvutitele\n* 4.2 lauaarvutitele\n* 4.1 terminaliteenuste jaoks"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Tarkvara litsentsimine ja kaitse server
-  description: Tarkvara litsentsimise ja kaitse server järgib määratud elutsükli poliitikat.
+  title: Tarkvara litsentsimise ja kaitse server
+  description: Tarkvara litsentsimise ja kaitse server järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a42af57f9f0bfd7232e67126c6d9923413e06f6
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "813014"
-name: Tarkvara litsentsimine ja kaitse server
+name: Tarkvara litsentsimise ja kaitse server
 summary: >
-  Tarkvara litsentsimise ja kaitse server järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  Tarkvara litsentsimise ja kaitse server järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
   See kehtib järgmiste väljaannete kohta: Enterprise, Standard
@@ -19,7 +19,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Tarkvara litsentsimise ja kaitse serveri (SLPS) loovutamise tõttu toetas Microsoft SLPS kuni 24. septembrini, 2009.
+  > Tarkvara litsentsimise ja kaitse serveri (SLPS) loovutamise tõttu toetas Microsoft SLPS-i kuni 24.09.2009.
 products:
 - windows
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 12/30/2007
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Lingid \n* [Tarkvara litsentsimine ja kaitse server (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Väljaanded \n* Enterprise\n* Standard"
+content: "\n## <a name=\"links\"></a>Lingid \n* [Tarkvara litsentsimise ja kaitse server (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Väljaanded \n* Enterprise\n* Standard"

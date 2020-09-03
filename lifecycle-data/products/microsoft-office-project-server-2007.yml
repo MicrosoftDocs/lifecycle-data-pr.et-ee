@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Project Server 2007
-  description: Microsoft Office Project Server 2007 järgib määratud elutsükli poliitikat.
+  description: Microsoft Office Project Server 2007 järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: 48e17ee16d2f4b27ef54521d79f687a624caa795
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "813605"
 name: Microsoft Office Project Server 2007
 summary: >+
-  Microsoft Office Project Server 2007 järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  Microsoft Office Project Server 2007 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
 products:
