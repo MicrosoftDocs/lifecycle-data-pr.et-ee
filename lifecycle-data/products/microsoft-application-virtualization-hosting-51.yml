@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsofti rakenduste virtualiseerimise hostimise 5,1 Windowsi lauaarvutite jaoks
-  description: Microsofti rakenduste virtualiseerimise hostimise 5,1 Windowsi lauaarvutite jaoks järgib määratud elutsükli poliitikat.
+  title: Microsoft Application Virtualization Hosting 5.1 for Windows Desktops
+  description: Microsoft Application Virtualization Hosting 5.1 Windowsi töölaudadele järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: c6fc257da84e3276165d0ab97a736120c1424172
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "852488"
-name: Microsofti rakenduste virtualiseerimise hostimise 5,1 Windowsi lauaarvutite jaoks
+name: Microsoft Application Virtualization Hosting 5.1 for Windows Desktops
 summary: >+
-  Microsofti rakenduste virtualiseerimise hostimise 5,1 Windowsi lauaarvutite jaoks järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  Microsoft Application Virtualization Hosting 5.1 Windowsi töölaudadele järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
-  See kehtib järgmiste väljaannete kohta: Windowsi Lauaarvutid
+  See kehtib järgmiste väljaannete kohta: Windowsi töölaudade jaoks
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2015
   endDate: 04/14/2026
-content: "\n## <a name=\"links\"></a>Lingid \n* [Toote teave](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n\n\n## <a name=\"editions\"></a>Väljaanded \n* Windowsi Lauaarvutid"
+content: "\n## <a name=\"links\"></a>Lingid \n* [Toote teave](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n\n\n## <a name=\"editions\"></a>Väljaanded \n* Windows töölaudade jaoks"

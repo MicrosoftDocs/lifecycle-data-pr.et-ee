@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure StorSimple 8000 seeria
-  description: Azure StorSimple 8000 seeria järgib määratud elutsükli poliitikat.
+  title: Azure StorSimple 8000 Series
+  description: Azure StorSimple 8000 seeria järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: b7f4d4313e664c1d52d52ee6394c8cad97f69e85
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "852168"
-name: Azure StorSimple 8000 seeria
+name: Azure StorSimple 8000 Series
 summary: >+
-  Azure StorSimple 8000 seeria järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  Azure StorSimple 8000 Series järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
 products:
@@ -24,4 +24,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/01/2014
-content: "\n## <a name=\"links\"></a>Lingid \n* [StorSimple lahenduse tugi](https://msdn.microsoft.com/library/mt433077(TechNet.10).aspx)\n* [Migreerimise juhised](/azure/storage/files/storage-files-migration-storsimple-8000)\n\n> [!NOTE]\n> Azure StorSimple 8000 sarja tugi pikendatakse nii, nagu näidatud, et pakkuda klientidele standardse elutsükli ajaskaalat. Pikendatud tugi sisaldab ainult riistvara asendus-ja turbevärskendusi."
+content: "\n## <a name=\"links\"></a>Lingid \n* [StorSimple'i lahenduse tugi](https://msdn.microsoft.com/library/mt433077(TechNet.10).aspx)\n* [Migreerimise juhised](/azure/storage/files/storage-files-migration-storsimple-8000)\n\n> [!NOTE]\n> Sarja Azure StorSimple 8000 Series tuge on pikendatud vastavalt kuvatud teabele, et pakkuda klientidele standardset elutsükli ajaskaalat. Pikendatud tugi hõlmab ainult riistvara asendamist ja turbevärskendusi."
