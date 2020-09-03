@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Forefront Protection 2010 Exchange ' i serveri jaoks
-  description: Forefront Protection 2010 for Exchange Server järgib määratud elutsükli poliitikat.
+  title: Forefront Protection 2010 for Exchange Server
+  description: Forefront Protection 2010 for Exchange Server järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9565d051119e9367e55a37ab1aeb269fe0fb3ed7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "813739"
-name: Forefront Protection 2010 Exchange ' i serveri jaoks
-summary: "Forefront Protection 2010 for Exchange Server järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.\n\n\n> [!IMPORTANT]\n> Forefront Brandi all olevate turbega toodete teejuht on muutunud. See toode katkestatakse alates 31 detsembrist, 2015. Lugege juhiseid teemast migreerimine. \n"
+name: Forefront Protection 2010 for Exchange Server
+summary: "Forefront Protection 2010 for Exchange Server järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.\n\n\n> [!IMPORTANT]\n> Forefronti kaubamärgi turvatoodete tegevuskava on muutunud. Selle toote tootmine on lõpetatud 31.12.2015 seisuga. Vaadake migreerimisjuhiseid. \n"
 products:
 - office
 policyType: fixed
