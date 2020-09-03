@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center 2012 Virtual Machine Manageri
-  description: Microsoft System Center 2012 Virtual Machine Manageri järgib määratud elutsükli poliitikat.
+  title: Microsoft System Center 2012 Virtual Machine Manager (virtuaalarvuti haldur)
+  description: Microsoft System Center 2012 Virtual Machine Manager (virtuaalarvuti haldur) järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: 09642342cee1a3d9fbe2ccab2f193a34364664bd
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "852591"
-name: Microsoft System Center 2012 Virtual Machine Manageri
+name: Microsoft System Center 2012 Virtual Machine Manager (virtuaalarvuti haldur)
 summary: >+
-  Microsoft System Center 2012 Virtual Machine Manageri järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  Microsoft System Center 2012 Virtual Machine Manager (virtuaalarvuti haldur) järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Lingid \n* [Hoolduspaketi poliitika](/lifecycle/policies/fixed#service-packs)\n* [System Center dokumentatsioon](/system-center/#pivot=components&panel=components-all)\n* [System Center ressursid](https://www.microsoft.com/system-center/resources)"
+content: "\n## <a name=\"links\"></a>Lingid \n* [Hoolduspaketi poliitika](/lifecycle/policies/fixed#service-packs)\n* [System Centeri dokumentatsioon](/system-center/#pivot=components&panel=components-all)\n* [System Centeri ressursid](https://www.microsoft.com/system-center/resources)"
