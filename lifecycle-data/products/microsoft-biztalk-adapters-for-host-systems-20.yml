@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft BizTalk adapteri Host Systems 2,0
-  description: Microsoft BizTalk adapteritele Host Systems 2,0 järgib määratud elutsükli poliitikat.
+  title: Microsoft BizTalk Adapters Host Systems 2.0 jaoks
+  description: Microsoft BizTalk Adapters Host Systems 2.0 jaoks järgib fikseeritud elutsükli poliitikat.
   ms.date: 08/12/2020
   ms.openlocfilehash: 425db6cb5918efdf9afc544d8a0e8bb554ce695c
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893494"
-name: Microsoft BizTalk adapteri Host Systems 2,0
+name: Microsoft BizTalk Adapters Host Systems 2.0 jaoks
 summary: >+
-  Microsoft BizTalk adapteritele Host Systems 2,0 järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  Microsoft BizTalk Adapters Host Systems 2.0 jaoks järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
-  See kehtib järgmiste väljaannete kohta: arendaja, standardne
+  See kehtib järgmiste väljaannete kohta: Developer, Standard
 
 products:
 - microsoft-servers
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/21/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>Väljaanded \n* Arendaja\n* Standard"
+content: "\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>Väljaanded \n* Developer\n* Standard"
