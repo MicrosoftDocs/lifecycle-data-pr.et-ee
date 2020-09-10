@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft BizTalk toimingukiirendi SWIFT 2.1 jaoks.
   description: Microsoft BizTalk toimingukiirendi SWIFT 2.1 jaoks järgib fikseeritud elutsükli poliitikat.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 873f0dd00819c1df249d891f180e311b31e63a83
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/10/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: 4690a58d3edb34b38381bf2afc596f0086952daf
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: et-EE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "813690"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1000080"
 name: Microsoft BizTalk toimingukiirendi SWIFT 2.1 jaoks.
 summary: >+
   Microsoft BizTalk toimingukiirendi SWIFT 2.1 jaoks järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
