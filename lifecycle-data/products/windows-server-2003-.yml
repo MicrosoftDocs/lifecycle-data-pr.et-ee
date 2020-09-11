@@ -2,13 +2,14 @@
 metadata:
   title: 'Windows Server 2003 '
   description: Windows Server 2003 järgib fikseeritud elutsükli poliitikat.
-  ms.date: 08/13/2020
-  ms.openlocfilehash: 3558caf5ca1df8b303629236184460220b5a76e5
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 09/01/2020
+  keywords: Datacenter (32-bit x86),Datacenter (x64),Datacenter for Itanium-Based Systems,Enterprise (32-Bit x86),Enterprise for Itanium-based Systems,Enterprise X64,Standard (32-bit x86),Web
+  ms.openlocfilehash: c11990954fd21dad1b968cf849bc9359008c9c07
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: et-EE
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893909"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939589"
 name: 'Windows Server 2003 '
 summary: >+
   Windows Server 2003 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
@@ -33,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 05/28/2003
   endDate: 04/10/2007
-content: "\n## <a name=\"links\"></a>Lingid \n* [Windows Server 2003 masinate ettevalmistamine migreerimiseks](/azure/migrate/prepare-windows-server-2003-migration)\n* [Hoolduspaketi poliitika](/lifecycle/policies/fixed#service-packs)\n* [Toetatud teed operatsioonisüsteemilt Windows Server 2003 versioonile Windows Server 2008](https://support.microsoft.com/help/951041/supported-paths-for-upgrading-from-windows-server-2003-to-windows-serv)\n\n> [!NOTE]\n> Itaniumi-põhiste süsteemide alguskuupäev on 19. juuni 2003.\n\n## <a name=\"editions\"></a>Väljaanded \n* Andmekeskus (32-bitine x86)\n* Andmekeskus (x64)\n* Andmekeskus Itaniumi-põhistele süsteemidele\n* Enterprise (32-bitine x86)\n* Enterprise for Itanium-based Systems\n* Enterprise X64\n* Standard (32-bitine x86)\n* Web"
+content: "\n## <a name=\"links\"></a>Lingid \n* [Toetatud teed operatsioonisüsteemilt Windows Server 2003 versioonile Windows Server 2008](https://support.microsoft.com/help/951041/supported-paths-for-upgrading-from-windows-server-2003-to-windows-serv)\n* [Hoolduspaketi poliitika](/lifecycle/policies/fixed#service-packs)\n* [Windows Server 2003 masinate ettevalmistamine migreerimiseks](/azure/migrate/prepare-windows-server-2003-migration)\n\n> [!NOTE]\n> Itaniumi-põhiste süsteemide alguskuupäev on 19. juuni 2003.\n\n## <a name=\"editions\"></a>Väljaanded \n* Andmekeskus (32-bitine x86)\n* Andmekeskus (x64)\n* Andmekeskus Itaniumi-põhistele süsteemidele\n* Enterprise (32-bitine x86)\n* Enterprise for Itanium-based Systems\n* Enterprise X64\n* Standard (32-bitine x86)\n* Web"
