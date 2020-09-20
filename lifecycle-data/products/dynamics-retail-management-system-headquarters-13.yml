@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics jaemüügi juhtimissüsteem 1,3
-  description: Dynamics jaemüügi juhtimissüsteem 1,3 järgib määratud elutsükli poliitikat.
+  title: Dynamics Retail Management System 1.3
+  description: Dynamics Retail Management System 1.3 järgib fikseeritud elutsükli poliitikat.
   ms.date: 09/01/2020
   keywords: Headquarters,Store Operations
   ms.openlocfilehash: a3713fd375b666673f687b89fe23492b072c8c3b
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "931693"
-name: Dynamics jaemüügi juhtimissüsteem 1,3
+name: Dynamics Retail Management System 1.3
 summary: >+
-  Dynamics jaemüügi juhtimissüsteem 1,3 järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  Dynamics Retail Management System 1.3 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
   See kehtib järgmiste väljaannete kohta: Headquarters, Store Operations

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365 ettevõtte keskne kohapealne (fikseeritud poliitika)
-  description: Dynamics 365 ettevõtte keskne kohapealne (fikseeritud poliitika) järgib määratud elutsükli poliitikat.
+  title: Asutusesisene Dynamics 365 Business Central (fikseeritud poliitika)
+  description: Asutusesisene Dynamics 365 Business Central (fikseeritud poliitika) järgib kaasaegse elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: eec6e6713736926961ab8bdd81b36fcbdeaf3dec
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "868860"
-name: Dynamics 365 ettevõtte keskne kohapealne (fikseeritud poliitika)
+name: Asutusesisene Dynamics 365 Business Central (fikseeritud poliitika)
 summary: >+
-  Dynamics 365 ettevõtte keskne kohapealne (fikseeritud poliitika) järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  Asutusesisene Dynamics 365 Business Central (fikseeritud poliitika) järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
 products:
