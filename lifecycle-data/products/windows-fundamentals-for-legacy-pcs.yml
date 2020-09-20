@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windowsi põhialused varasemate arvutite jaoks
-  description: Windowsi põhialused arvutite jaoks on määratud elutsükli poliitika järgi.
+  title: Windows Fundamentals pärandarvutitele
+  description: Windows Fundamentals pärandarvutitele järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: b0ea32a5421ba068c5fa75f46633c104fdb3eff5
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "812976"
-name: Windowsi põhialused varasemate arvutite jaoks
+name: Windows Fundamentals pärandarvutitele
 summary: >+
-  Windowsi põhialused arvutite jaoks on [määratud](/lifecycle/policies/fixed) elutsükli poliitika järgi.
+  Windows Fundamentals pärandarvutitele järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2006
   endDate: 10/12/2010
-content: "\n## <a name=\"links\"></a>Lingid \n* [Hoolduspaketi poliitika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> See toode järgib Windows XP-s sama tugiteenuse elutsükli poliitikat."
+content: "\n## <a name=\"links\"></a>Lingid \n* [Hoolduspaketi poliitika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> See toode järgib sama tugiteenuse elutsükli poliitikat nagu Windows XP."

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Lync for Mac 2011
-  description: Microsoft Lync for Mac 2011 järgib määratud elutsükli poliitikat.
+  title: Microsoft Lync Macile 2011
+  description: Microsoft Lync Macile 2011 järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: 207ed38b1b2ea1ec21b7f89d565df627ab2e7c42
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "813049"
-name: Microsoft Lync for Mac 2011
+name: Microsoft Lync Macile 2011
 summary: >+
-  Microsoft Lync for Mac 2011 järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  Microsoft Lync Macile 2011 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 10/09/2018
-content: "\n## <a name=\"links\"></a>Lingid \n* [Skype ' i ärirakendus Mac-arvutis](https://www.microsoft.com/download/details.aspx?id=54108)\n\n> [!NOTE]\n> Microsoft Lync for Mac 2011 tugi on pikendatud, nagu on näidatud, et anda kõigile klientidele, kellel on elutsükli ülemineku ajaskaala Skype ' i ärirakenduse Mac-arvutisse."
+content: "\n## <a name=\"links\"></a>Lingid \n* [Skype'i ärirakendus Macile](https://www.microsoft.com/download/details.aspx?id=54108)\n\n> [!NOTE]\n> Microsoft Lync Macile 2011 tugi on laiendatud, nagu näidatud, et pakkuda kõigile klientidele Macil Skype'i ärirakendusele üleminekuks elutsükli ülemineku ajakava."

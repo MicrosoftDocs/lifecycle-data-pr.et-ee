@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft BitLockeri haldus ja jälgimine 2,5
-  description: Microsoft BitLockeri halduse ja jälgimise 2,5 järgib määratud elutsükli poliitikat.
+  title: Microsoft BitLockeri haldamine ja jälgimine 2.5
+  description: Microsoft BitLockeri haldamine ja jälgimine 2.5 järgib fikseeritud elutsükli poliitika.
   ms.date: 07/28/2020
   ms.openlocfilehash: fe5d94e98de4c880815a7bad0a2ae5dd42a74600
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "852482"
-name: Microsoft BitLockeri haldus ja jälgimine 2,5
+name: Microsoft BitLockeri haldamine ja jälgimine 2.5
 summary: >+
-  Microsoft BitLockeri halduse ja jälgimise 2,5 järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  Microsoft BitLockeri haldamine ja jälgimine 2.5 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
 products:
