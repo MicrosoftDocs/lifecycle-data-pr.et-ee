@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Pilve platvormi süsteem
-  description: Pilve platvormi süsteem järgib määratud elutsükli poliitikat.
+  title: Cloud Platform System
+  description: Cloud Platformi süsteem järgib fikseeritud elutsükli poliitikat.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 77f8b0e296d10279130459a1c0917c04382c26bc
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "932041"
-name: Pilve platvormi süsteem
+name: Cloud Platform System
 summary: >+
-  Pilve platvormi süsteem järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  Cloud Platformi süsteem järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
   See kehtib järgmiste väljaannete kohta: Standard
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/29/2015
   endDate: 07/12/2022
-content: "\n\n> [!NOTE]\n> Cloud Platformi süsteemi tuge pikendatakse nii, nagu on näidatud, et pakkuda kõigile klientidele standardse elutsükli ülemineku ajaskaalat.\n> [!NOTE]\n> Pilveteenuse platvormi süsteemi Standard on käivitatud 18. septembril 2017.\n\n## <a name=\"editions\"></a>Väljaanded \n* Standard"
+content: "\n\n> [!NOTE]\n> Cloud Platformi süsteemi tavatuge laiendatakse nii, nagu on näidatud, et pakkuda kõigile klientidele standardset elutsükli ülemineku ajaskaalat.\n> [!NOTE]\n> 18.09.2017 käivitatud Cloud Platformi süsteemi standard.\n\n## <a name=\"editions\"></a>Väljaanded \n* Standard"
