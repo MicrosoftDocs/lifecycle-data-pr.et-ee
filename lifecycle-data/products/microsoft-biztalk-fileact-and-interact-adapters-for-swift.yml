@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft BizTalk FileAct ja interaktiivsed adapterid
-  description: Microsoft BizTalk FileAct ja interaktiivsed adapterid on määratud elutsükli poliitika järgi.
+  title: Microsoft BizTalki adapterid FileAct ja InterAct SWIFT-i jaoks
+  description: Microsoft BizTalki adapterid FileAct  ja InterAct SWIFT-i jaoks järgivad fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: 654ca219f5eb9869d6bae2aaaef848a48af3560e
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "813677"
-name: Microsoft BizTalk FileAct ja interaktiivsed adapterid
+name: Microsoft BizTalki adapterid FileAct ja InterAct SWIFT-i jaoks
 summary: >+
-  Microsoft BizTalk FileAct ja interaktiivsed adapterid on [määratud](/lifecycle/policies/fixed) elutsükli poliitika järgi.
+  Microsoft BizTalki adapterid FileAct ja InterAct SWIFT-i jaoks järgivad [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
 products:

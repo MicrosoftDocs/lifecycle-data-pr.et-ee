@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 Surface Hubi korral
-  description: Surface Hubi Windows 10 järgib määratud elutsükli poliitikat.
+  title: Windows 10 Surface Hubis
+  description: Windows 10 Surface Hubis järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: d5c994b23c967ac3138bc695168ac1bbeec1856b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "852194"
-name: Windows 10 Surface Hubi korral
+name: Windows 10 Surface Hubis
 summary: >+
-  Surface Hubi Windows 10 järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  Windows 10 Surface Hubis järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 03/25/2016
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Lingid \n* [Windowsi värskendused (Surface Hubi)](/surface-hub/manage-windows-updates-for-surface-hub)\n\n> [!NOTE]\n> Lisateavet selle kohta, kuidas hankida uusimat Surface Hubi värskendusi, leiate lehest Windowsi värskendused (Surface Hub)."
+content: "\n## <a name=\"links\"></a>Lingid \n* [Windowsi värskendused (Surface Hub)](/surface-hub/manage-windows-updates-for-surface-hub)\n\n> [!NOTE]\n> Lugege lehte Windowsi värskendused (Surface Hub), veendumaks, et saate kõik uusimad Surface Hubi värskendused."

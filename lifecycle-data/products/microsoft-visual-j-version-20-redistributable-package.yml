@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Visual J# versioon 2,0 taaslevitatav pakett
-  description: Microsoft Visual J# versioon 2,0 taaslevitatav pakett järgib määratud elutsükli poliitikat.
+  title: Microsoft Visual J# versiooni 2.0 taaslevitatav pakett
+  description: Microsoft Visual J# versiooni 2.0 taaslevitatav pakett järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: fa32b69860aec252b7d1068ad2e130700f9d0b92
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "813164"
-name: Microsoft Visual J# versioon 2,0 taaslevitatav pakett
+name: Microsoft Visual J# versiooni 2.0 taaslevitatav pakett
 summary: >+
-  Microsoft Visual J# versioon 2,0 taaslevitatav pakett järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  Microsoft Visual J# versiooni 2.0 taaslevitatav pakett järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 04/22/2006
   endDate: 07/12/2016
-content: "\n## <a name=\"links\"></a>Lingid \n* [Visual J# tugiteenuste teave](https://msdn.microsoft.com/vstudio/bb188593)\n\n> [!NOTE]\n> Selle toote tugi on lõppenud. Lisateavet leiate teemast migreerimise juhised."
+content: "\n## <a name=\"links\"></a>Lingid \n* [Visual J# tugiteave](https://msdn.microsoft.com/vstudio/bb188593)\n\n> [!NOTE]\n> Selle toote tugi on lõppenud. Migreerimisjuhiseid leiate altpoolt."

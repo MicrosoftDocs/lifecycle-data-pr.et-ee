@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Softgrid Terminal Server (MDOP)
-  description: Softgrid (MDOP) järgib määratud elutsükli poliitikat.
+  title: Softgrid terminaliserveri jaoks (MDOP)
+  description: Softgrid terminaliserveri jaoks (MDOP) järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: 678dd6057802afee1e92f8bba4296ee1b620a97d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "812996"
-name: Softgrid Terminal Server (MDOP)
+name: Softgrid terminaliserveri jaoks (MDOP)
 summary: >+
-  Softgrid (MDOP) järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  Softgrid terminaliserveri jaoks (MDOP) järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2007
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Lingid \n* [Elutsükli KKK – üldine](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> Välistab varem toetatud versioonid. Selle toote tugi kehtib selle omandamise tingimuste kohta."
+content: "\n## <a name=\"links\"></a>Lingid \n* [Elutsükli KKK – üldine](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> Välistab varem lõpetatud toega versioonid. Selle toote tugiteenusele kehtivad selle omandamise tingimused."

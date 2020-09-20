@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft arvutab klastri paketi
-  description: Microsoft Arvuta klastri pakett järgib määratud elutsükli poliitikat.
+  title: Pakett Microsoft Compute Cluster
+  description: Pakett Microsoft Compute Cluster järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: e3817378573c09880c2d9970b69e387402d0c6b1
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "813651"
-name: Microsoft arvutab klastri paketi
+name: Pakett Microsoft Compute Cluster
 summary: >
-  Microsoft Arvuta klastri pakett järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  Pakett Microsoft Compute Cluster järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
 
