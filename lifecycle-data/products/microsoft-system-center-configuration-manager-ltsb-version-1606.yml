@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center Configuration Manager (LTSB-versioon 1606)
-  description: Microsoft System Center Configuration Manager (LTSB-versioon 1606) järgib määratud elutsükli poliitikat.
+  title: Microsoft System Center Configuration Manager (LTSB - versioon 1606)
+  description: Microsoft System Center Configuration Manager (LTSB - versioon 1606) järgib fikseeritud elutsükli poliitikat.
   ms.date: 08/20/2020
   ms.openlocfilehash: 606034d7f3694f3e06a47bdc5e1a45561102c238
   ms.sourcegitcommit: f5095aa6fc41dcc71c883cae08719b5b6bf9585c
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 08/20/2020
   ms.locfileid: "905820"
-name: Microsoft System Center Configuration Manager (LTSB-versioon 1606)
+name: Microsoft System Center Configuration Manager (LTSB - versioon 1606)
 summary: >+
-  Microsoft System Center Configuration Manager (LTSB-versioon 1606) järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  Microsoft System Center Configuration Manager (LTSB - versioon 1606) järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 10/12/2016
   endDate: 01/12/2027
-content: "\n## <a name=\"links\"></a>Lingid \n* [Teenindus-ja tugiteenuste teave](/sccm/core/understand/learn-more-editions)"
+content: "\n## <a name=\"links\"></a>Lingid \n* [Teave teeninduse ja toe kohta](/sccm/core/understand/learn-more-editions)"

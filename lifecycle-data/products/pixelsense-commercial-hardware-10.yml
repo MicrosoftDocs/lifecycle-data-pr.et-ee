@@ -1,19 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: PixelSense Commercial riistvara 1,0
-  description: PixelSense Commercial riistvara 1,0 järgib määratud elutsükli poliitikat.
+  title: PixelSense Commercial Hardware 1.0
+  description: PixelSense Commercial Hardware 1.0 järgib fikseeritud elutsükli poliitikat.
   ms.date: 08/12/2020
   ms.openlocfilehash: 634e2d48b4c7d357f681ff4e485456080fba7853
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893907"
-name: PixelSense Commercial riistvara 1,0
-summary: >+
-  PixelSense Commercial riistvara 1,0 järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
-
-
+name: PixelSense Commercial Hardware 1.0
+summary: "PixelSense Commercial Hardware 1.0 järgib [fikseeritud](/lifecycle/policies/fixed)elutsükli poliitikat. \n\n\n"
 products:
 - windows
 policyType: fixed-mainstream-only
