@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Azure BizTalk Services
-  description: Azure BizTalk Services järgib tänapäevast elutsükli poliitikat.
+  description: Azure BizTalk Services järgib kaasaegse elutsükli poliitikat.
   ms.date: 08/19/2020
   ms.openlocfilehash: 3fba232a5fce7a5cbc705ce79978718f84181737
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "904011"
 name: Azure BizTalk Services
 summary: >+
-  Azure BizTalk Services järgib [tänapäevast](/lifecycle/policies/modern) elutsükli poliitikat.
+  Azure BizTalk Services järgib [kaasaegse](/lifecycle/policies/modern) elutsükli poliitikat.
 
 
 products:

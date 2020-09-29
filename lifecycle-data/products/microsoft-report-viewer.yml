@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft report Viewer
-  description: Microsoft report Viewer järgib tänapäevast elutsükli poliitikat.
+  title: Microsoft Report Viewer
+  description: Microsoft Report Viewer järgib kaasaegse elutsükli poliitikat.
   ms.date: 08/19/2020
   ms.openlocfilehash: 9025fd3d1b84a581d70de562ab977e3aa01870fb
   ms.sourcegitcommit: 9d254d51934063ec1dd8c7e0e5fcb53ccc7257b3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 08/20/2020
   ms.locfileid: "904842"
-name: Microsoft report Viewer
+name: Microsoft Report Viewer
 summary: >+
-  Microsoft report Viewer järgib [tänapäevast](/lifecycle/policies/modern) elutsükli poliitikat.
+  Microsoft Report Viewer järgib [kaasaegse](/lifecycle/policies/modern) elutsükli poliitikat.
 
 
 products:
