@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: PolicyMaker
-  description: PolicyMaker järgib määratud elutsükli poliitikat.
+  description: PolicyMaker järgib fikseeritud elutsükli poliitikat.
   ms.date: 09/01/2020
   keywords: Application Security,Outlook Edition,Professional 9.0,Registry Extension 2.0,Share Manager 1.0,Software Update 1.0,Software Update 2.0,Standard 1.0,Standard 2.0
   ms.openlocfilehash: be11ae6bee427a5aa059ec56cb88f007bb5134ec
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938035"
 name: PolicyMaker
 summary: >+
-  PolicyMaker järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  PolicyMaker järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
-  See kehtib järgmiste väljaannete kohta: rakenduse Turve, Outlook Edition, Professional 9,0, registri laiend 2,0, aktsia Manager 1,0, tarkvara värskendus 1,0, tarkvara uuendamine 2,0, Standard 1,0, Standard 2,0
+  See kehtib järgmiste väljaannete kohta: Application Security, Outlook Edition, Professional 9.0, Registry Extension 2.0, Share Manager 1.0, Software Update 1.0, Software Update 2.0, Standard 1.0, Standard 2.0
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2007
   endDate: 01/12/2010
-content: "\n\n> [!NOTE]\n> Selle toote tugiteenusele kehtivad selle omandamise tingimused.\n\n## <a name=\"editions\"></a>Väljaanded \n* Rakenduse Turve\n* Outlooki väljaanne\n* Professional 9,0\n* Registri laiend 2,0\n* Share Manager 1,0\n* Tarkvara värskendus 1,0\n* Tarkvara värskendus 2,0\n* Standardne 1,0\n* Standardne 2,0"
+content: "\n\n> [!NOTE]\n> Selle toote tugiteenusele kehtivad selle omandamise tingimused.\n\n## <a name=\"editions\"></a>Väljaanded \n* Application Security\n* Outlook Edition\n* Professional 9.0\n* Registry Extension 2.0\n* Share Manager 1.0\n* Software Update 1.0\n* Software Update 2.0\n* Standard 1.0\n* Standard 2.0"

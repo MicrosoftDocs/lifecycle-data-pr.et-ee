@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Class server 4,0
-  description: Microsoft Class server 4,0 järgib määratud elutsükli poliitikat.
+  title: Microsoft Class Server 4.0
+  description: Microsoft Class Server 4.0 järgib fikseeritud elutsükli poliitikat.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 0edbcc4d8beac695a9fc873ec7ae2d51c06e8f56
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934483"
-name: Microsoft Class server 4,0
+name: Microsoft Class Server 4.0
 summary: >+
-  Microsoft Class server 4,0 järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  Microsoft Class Server 4.0 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
   See kehtib järgmiste väljaannete kohta: Standard
