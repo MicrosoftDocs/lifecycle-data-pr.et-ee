@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Lync 2010
-  description: Microsoft Lync 2010 järgib määratud elutsükli poliitikat.
+  description: Microsoft Lync 2010 järgib fikseeritud elutsükli poliitikat.
   ms.date: 09/01/2020
   keywords: Attendant,Attendee,Group Chat,Standard
   ms.openlocfilehash: c3db784bc5a889bab9f8c319ddb04361993c453a
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933447"
 name: Microsoft Lync 2010
 summary: >+
-  Microsoft Lync 2010 järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  Microsoft Lync 2010 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
-  See kehtib järgmiste väljaannete kohta: saatja, osaleja, rühma vestlus, standardne
+  See kehtib järgmiste väljaannete kohta: Attendant, Attendee, Group Chat, Standard
 
 products:
 - office
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/13/2021
-content: "\n\n\n## <a name=\"editions\"></a>Väljaanded \n* Stjuardess\n* Osaleja\n* Rühma vestlus\n* Standard"
+content: "\n\n\n## <a name=\"editions\"></a>Väljaanded \n* Attendant\n* Attendee\n* Group Chat\n* Standard"
