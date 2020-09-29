@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure StorSimple 1200 seeria
-  description: Azure StorSimple 1200 seeria järgib määratud elutsükli poliitikat.
+  title: Azure StorSimple 1200 Series
+  description: Azure StorSimple 1200 Series järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: 82f3a04f6c89120819c1db952a04ddbd45d4f9c9
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "852161"
-name: Azure StorSimple 1200 seeria
+name: Azure StorSimple 1200 Series
 summary: >+
-  Azure StorSimple 1200 seeria järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  Azure StorSimple 1200 Series järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
 products:

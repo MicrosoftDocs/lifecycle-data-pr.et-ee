@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Office 365 ProPlus Office 2013 versioon
-  description: Office 365 ProPlus Office 2013 versioon järgib tänapäevase elutsükli poliitikat.
+  title: Office 365 ProPlusi Office 2013 versioon
+  description: Office 365 ProPlusi Office 2013 versioon järgib kaasaegset elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: 737fb217dc596643edfbcb06dd90640e1641c49b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "852221"
-name: Office 365 ProPlus Office 2013 versioon
+name: Office 365 ProPlusi Office 2013 versioon
 summary: >+
-  Office 365 ProPlus Office 2013 versioon järgib [tänapäevase](/lifecycle/policies/modern) elutsükli poliitikat.
+  Office 365 ProPlusi Office 2013 versioon järgib [kaasaegset](/lifecycle/policies/modern) elutsükli poliitikat.
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: StorSimple andmete haldur
-  description: StorSimple andmete haldur järgib määratud elutsükli poliitikat.
+  title: StorSimple Data Manager
+  description: StorSimple Data Manager järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: cca889145816fcf7bde921df52a32be61a97a54d
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "868904"
-name: StorSimple andmete haldur
+name: StorSimple Data Manager
 summary: >+
-  StorSimple andmete haldur järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  StorSimple Data Manager järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
 products:
