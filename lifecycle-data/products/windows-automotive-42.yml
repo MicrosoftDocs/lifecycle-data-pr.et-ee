@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windowsi autotööstus 4,2
-  description: Windowsi autotööstuse 4,2 järgib määratud elutsükli poliitikat.
+  title: Windows Automotive 4.2
+  description: Windows Automotive 4.2 järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: a2671ea93a2852928c59d836ed4ebc8412963b61
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "812982"
-name: Windowsi autotööstus 4,2
+name: Windows Automotive 4.2
 summary: >
-  Windowsi autotööstuse 4,2 järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  Windows Automotive 4.2 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
 
