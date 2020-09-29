@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure ' i konteineri teenus
-  description: Azure ' i konteineri teenus järgib tänapäevase elutsükli poliitikat.
+  title: Azure'i ümbrise teenus
+  description: Azure Container Service järgib kaasaegset elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: 70f9cfee8138e47ca857cf32af6388be1518fdb1
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "852159"
-name: Azure ' i konteineri teenus
+name: Azure'i ümbrise teenus
 summary: >+
-  Azure ' i konteineri teenus järgib [tänapäevase](/lifecycle/policies/modern) elutsükli poliitikat.
+  Azure Container Service järgib [kaasaegset](/lifecycle/policies/modern) elutsükli poliitikat.
 
 
 products:

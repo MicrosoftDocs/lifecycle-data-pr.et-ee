@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windowsi õhuke arvuti
-  description: Windowsi õhuke arvuti järgib määratud elutsükli poliitikat.
+  title: Windows Thin PC
+  description: Windows Thin PC järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: 69f6537ffd5ab3d93b955bcaf9801eb52d241415
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "852395"
-name: Windowsi õhuke arvuti
+name: Windows Thin PC
 summary: >+
-  Windowsi õhuke arvuti järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  Windows Thin PC järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
 products:

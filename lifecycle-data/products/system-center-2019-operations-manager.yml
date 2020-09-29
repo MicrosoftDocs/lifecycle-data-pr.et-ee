@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: System Center 2019 operatsioonide haldur
-  description: System Center 2019 Operations Manager järgib määratud elutsükli poliitikat.
+  title: System Center 2019 Operations Manager
+  description: System Center 2019 Operations Manager järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: f5bee333a3804dceb691a900186014bd104a6e77
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "868903"
-name: System Center 2019 operatsioonide haldur
+name: System Center 2019 Operations Manager
 summary: >+
-  System Center 2019 Operations Manager järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  System Center 2019 Operations Manager järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
 products:
