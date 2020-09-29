@@ -1,20 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Täiustatud ohu analüüs 1. X
-  description: Täiustatud ohu analüüs 1. X järgib määratud elutsükli poliitikat.
+  title: Advanced Threat Analytics 1.X
+  description: Advanced Threat Analytics 1.X järgib fikseeritud elutsükli poliitikat.
   ms.date: 09/10/2020
   keywords: 
   ms.openlocfilehash: 63d72a1510958edf2f7800c4a102fb587cbb8750
   ms.sourcegitcommit: 5c618c870f05989d24ebd3a61d98ce2302e85d3b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 09/10/2020
   ms.locfileid: "1002637"
-name: Täiustatud ohu analüüs 1. X
-summary: >+
-  Täiustatud ohu analüüs 1. X järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
-
-
+name: Advanced Threat Analytics 1.X
+summary: "Advanced Threat Analytics 1.X järgib [fikseeritud](/lifecycle/policies/fixed)elutsükli poliitikat. \n\n\n"
 products:
 - m365
 policyType: fixed
@@ -26,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2015
   endDate: 01/13/2026
-content: "\n## <a name=\"links\"></a>Lingid \n* [Täpsem oht Analyticsiga teenindamise juhised](/advanced-threat-analytics/understand-explore/ata-versions)\n\n> [!NOTE]\n> Värskendused on kumulatiivsed, iga värskendus, mis on loodud kõikidele eelnenud värskendustele. Seadmes tuleb installida uusim värskendus, mida soovite endiselt toetada."
+content: "\n## <a name=\"links\"></a>Lingid \n* [Advanced Threat Analyticsi teenindamise juhised](/advanced-threat-analytics/understand-explore/ata-versions)\n\n> [!NOTE]\n> Värskendused on kumulatiivsed, iga värskendus põhineb kõigil sellele eelnenud värskendustel. Seade peab installima uusima värskenduse, et see jääks toetatuks."
