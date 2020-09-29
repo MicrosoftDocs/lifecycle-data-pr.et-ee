@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: BizTalk adapteri for Mqseriesi 2005
-  description: BizTalk adapteri for Mqseriesi 2005 järgib määratud elutsükli poliitikat.
+  title: BizTalki adapter MQSeries 2005 jaoks
+  description: BizTalki adapter MQSeries 2005 jaoks järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: b38f030ecd18a0709313dc96f4237852115cc896
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "813904"
-name: BizTalk adapteri for Mqseriesi 2005
+name: BizTalki adapter MQSeries 2005 jaoks
 summary: >+
-  BizTalk adapteri for Mqseriesi 2005 järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  BizTalki adapter MQSeries 2005 jaoks järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
 products:

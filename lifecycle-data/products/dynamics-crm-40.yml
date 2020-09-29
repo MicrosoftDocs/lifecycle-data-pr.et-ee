@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics CRM 4,0
-  description: Dynamics CRM-i 4,0 järgib määratud elutsükli poliitikat.
+  title: Dynamics CRM 4.0
+  description: Dynamics CRM 4.0 järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
   ms.openlocfilehash: 852d493a2b4693fdc4b3b7cc1e40b30afe880704
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: et-EE
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "813765"
-name: Dynamics CRM 4,0
+name: Dynamics CRM 4.0
 summary: >+
-  Dynamics CRM-i 4,0 järgib [määratud](/lifecycle/policies/fixed) elutsükli poliitikat.
+  Dynamics CRM 4.0 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
 products:
