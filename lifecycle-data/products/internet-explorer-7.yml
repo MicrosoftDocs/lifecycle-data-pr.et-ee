@@ -2,13 +2,14 @@
 metadata:
   title: Internet Explorer 7
   description: Internet Explorer 7 järgib komponendi elutsükli poliitikat.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: a3ebb8bde83f8b86fe292510b958fb0c59994fe3
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 10/05/2020
+  keywords: 
+  ms.openlocfilehash: e9a0e815b920011e15e4da8e58158c45e7971cd0
+  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
   ms.translationtype: HT
   ms.contentlocale: et-EE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "813718"
+  ms.lasthandoff: 10/20/2020
+  ms.locfileid: "1162662"
 name: Internet Explorer 7
 summary: >+
   Internet Explorer 7 järgib [komponendi](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) elutsükli poliitikat.
@@ -19,7 +20,8 @@ products:
 policyType: component
 supportDates:
   start: 10/18/2006
+  end: 10/10/2023
 releases:
 - version: Original Release
   startDate: 10/18/2006
-content: "\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](https://www.microsoft.com/itpro/microsoft-edge)\n* [Internet Exploreri elutsükli poliitika KKK](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Alates 12. jaanuarist 2016 saab tehnilist tuge ja turbevärskendusi ainult toetatud operatsioonisüsteemi jaoks saadaoleva Internet Exploreri kõige uuem versioon.\n\n\n"
+content: "\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](https://www.microsoft.com/itpro/microsoft-edge)\n* [Windows Embedded Compact 7](/lifecycle/products/windows-embedded-compact-7)\n* [Windows Embedded Compact 2013](/lifecycle/products/windows-embedded-compact-2013)\n* [Internet Exploreri elutsükli poliitika KKK](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Internet Explorer 7 on Windows Embedded Compact 7 ja Windows Embedded Compact 2013 komponent ja järgib sama elutsüklit. \n> [!NOTE]\n> Alates 12. jaanuarist 2016 saab tehnilist tuge ja turbevärskendusi ainult toetatud operatsioonisüsteemi jaoks saadaoleva Internet Exploreri kõige uuem versioon.\n\n"
