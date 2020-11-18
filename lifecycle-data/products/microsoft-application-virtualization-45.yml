@@ -38,4 +38,4 @@ releases:
 - version: Original Release
   startDate: 11/23/2008
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Hoolduspaketi poliitika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Kuna App-V 4.6 klient kasutab App-V 4.5 Serverit, jätkub App-V 4.5 Serveri tugi vastavalt App-V 4.6 elutsükli kuupäevadele, kui seda kasutatakse toetatud App-V 4.6 kliendiga.\n\n## <a name=\"editions\"></a>Väljaanded \n* Terminaliteenuste jaoks\n* Windows töölaudade jaoks\n"
+content: "\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Hoolduspaketi poliitika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Kuna App-V 4.6 klient kasutab App-V 4.5 Serverit, jätkub App-V 4.5 Serveri tugi vastavalt App-V 4.6 elutsükli kuupäevadele, kui seda kasutatakse toetatud App-V 4.6 kliendiga.\n\n## <a name=\"editions\"></a>Väljaanded \n* Terminaliteenuste jaoks\n* Windowsi töölaudade jaoks\n"

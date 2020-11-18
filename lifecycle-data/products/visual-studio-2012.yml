@@ -15,7 +15,7 @@ summary: >+
   Visual Studio 2012 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
-  See kehtib järgmiste väljaannete kohta: Agendid, Community 2013, Express for Web, Express for Windows 8, Express for Windows Desktop, IntelliTrace Collector, Microsoft Azure Tools, Premium, Professional, Remote Tools, Shell (integreeritud), Shell (isoleeritud), SQL Serveri andmetööriistad, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Redistributable, Veebitööriistade laiendused
+  See kehtib järgmiste väljaannete kohta: Agendid, Community 2013, Express for Web, Express for Windows 8, Express for Windows Desktop, IntelliTrace Collector, Microsoft Azure’i tööriistad, Premium, Professional, Remote Tools, Shell (integreeritud), Shell (isoleeritud), SQL Serveri andmetööriistad, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Redistributable, Web Tools Extensions
 
 products:
 - vs

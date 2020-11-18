@@ -15,7 +15,7 @@ summary: >+
   Visual Studio 2010 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
-  See kehtib järgmiste väljaannete kohta: Agents, All, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, jõudlustööriistad, Premium, Professional, Professional w/MSDN , PSM, Remote Debugger, SDK, Shell (integreeritud), Shell (isoleeritud), Team Agents, Team Explorer, Test Professional, Tööriistad: Office System 4.0 Runtime, Ultimate, Ultimate with MSDN, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Modeling SDK
+  See kehtib järgmiste väljaannete kohta: Agents, All, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, jõudlustööriistad, Premium, Professional, Professional w/MSDN , PSM, Remote Debugger, SDK, Shell (integreeritud), Shell (isoleeritud), Team Agents, Team Explorer, Test Professional, Office System 4.0 Runtime’i tööriistad, Ultimate, Ultimate with MSDN, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Modeling SDK
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Lingid \n* [Hoolduspaketi poliitika](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Väljaanded \n* Agendid\n* Kõik\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Runtime\n* Lab Management\n* Jõudlustööriistad\n* Premium\n* Professional\n* Professional w/MSDN \n* PSM\n* Kaugsilur\n* SDK\n* Shell (integreeritud)\n* Shell (isoleeritud)\n* Meeskonnaagendid\n* Team Explorer\n* Test Professional\n* Office System 4.0 Runtime’i tööriistad\n* Ultimate\n* Ultimate MSDN-iga\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Visualization & Modeling SDK"
+content: "\n## <a name=\"links\"></a>Lingid \n* [Hoolduspaketi poliitika](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Väljaanded \n* Agendid\n* Kõik\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Runtime\n* Lab Management\n* Jõudlustööriistad\n* Premium\n* Professional\n* Professional w/MSDN \n* PSM\n* Remote Debugger\n* SDK\n* Shell (integreeritud)\n* Shell (isoleeritud)\n* Team Agents\n* Team Explorer\n* Test Professional\n* Office System 4.0 Runtime’i tööriistad\n* Ultimate\n* Ultimate MSDN-iga\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Visualization & Modeling SDK"
