@@ -15,7 +15,7 @@ summary: >+
   Microsoft Application Virtualization 5.0 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
-  See kehtib järgmiste väljaannete kohta: kaugtöölaua teenused, terminaliteenused, Windowsi töölauad
+  See kehtib järgmiste väljaannete kohta: kaugtöölaua teenuste jaoks, terminaliteenuste jaoks, Windowsi töölaudade jaoks
 
 products:
 - windows
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2012
   endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>Lingid \n* [Toote teave](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Hoolduspaketi poliitika](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Väljaanded \n* kaugtöölaua teenuste jaoks\n* Terminaliteenuste jaoks\n* Windows töölaudade jaoks"
+content: "\n## <a name=\"links\"></a>Lingid \n* [Toote teave](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Hoolduspaketi poliitika](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Väljaanded \n* Kaugtöölaua teenuste jaoks\n* Terminaliteenuste jaoks\n* Windowsi töölaudade jaoks"

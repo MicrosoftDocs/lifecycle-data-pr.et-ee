@@ -15,7 +15,7 @@ summary: >+
   Visual Studio 2015 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
-  See kehtib järgmiste väljaannete kohta: Agents, Community, Enterprise, ESM, Express for Web, Express for Windows 10, Express for Windows Desktop, Modeling SDK, Professional, PSM, Release Management, Remote Tools, SDK, Shell (integreeritud), Shell (isoleeritud), Test Professional, TPS, Visual C++ taaslevitatav
+  See kehtib järgmiste väljaannete kohta: Agents, Community, Enterprise, ESM, Express for Web, Express for Windows 10, Express for Windows Desktop, Modeling SDK, Professional, PSM, Release Management, Remote Tools, SDK, Shell (integreeritud), Shell (isoleeritud), Test Professional, TPS, Visual C++ Redistributable
 
 products:
 - vs

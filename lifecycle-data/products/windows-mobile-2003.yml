@@ -15,7 +15,7 @@ summary: >
   Windows Mobile 2003 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
-  See kehtib järgmiste väljaannete kohta: Pocket PC, nutitelefonid, Second Edition tarkvara Pocket PC Phone, Second Edition nutitelefoni tarkvara
+  See kehtib järgmiste väljaannete kohta: Pocket PC jaoks, nutitelefonidele, Second Edition tarkvara Pocket PC Phone’i jaoks, Second Edition tarkvara nutitelefoni jaoks
 
 
   > [!IMPORTANT]
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2004
   endDate: 07/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>Väljaanded \n* Pocket PC jaoks\n* nutitelefonidele\n* Second Edition tarkvara Pocket PC Phone jaoks\n* Second Edition tarkvara nutitelefoni jaoks"
+content: "\n\n\n## <a name=\"editions\"></a>Väljaanded \n* Pocket PC jaoks\n* nutitelefonidele\n* Second Edition tarkvara Pocket PC Phone’i jaoks\n* Second Edition tarkvara nutitelefoni jaoks"
