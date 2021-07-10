@@ -2,17 +2,25 @@
 metadata:
   title: Internet Explorer 11
   description: Internet Explorer 11 järgib komponendi elutsükli poliitikat.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: 62c563784a27bf046f85b65ff75c31ec969d0bb6
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 05/18/2021
+  keywords: 
+  ms.openlocfilehash: e8c2c3268966c81d4dd08589587bd41da21148c2
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
   ms.translationtype: HT
   ms.contentlocale: et-EE
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893642"
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2029501"
 name: Internet Explorer 11
 summary: >+
   Internet Explorer 11 järgib [komponendi](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) elutsükli poliitikat.
 
+
+
+
+
+  > [!IMPORTANT]
+
+  > Internet Exploreri (IE) 11 töölauarakendus lõpetab teatud operatsioonisüsteemide toetamise alates 15. juunist 2022. Klientidel soovitatakse IE-režiimiga minna üle Microsoft Edge'i. IE-režiim võimaldab tagasiühildumist ja seda toetatakse vähemalt 2029. aastani. Lisaks teatab Microsoft ette aasta aega enne IE-režiimi kasutuselt kõrvaldamist. Leiate [siit](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-) Internet Exploreri toetatud operatsioonisüsteemide loendi, sealhulgas versioonid, mida see teade mõjutab.
 
 products:
 - internet-explorer
@@ -22,4 +30,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/13/2013
-content: "\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](https://www.microsoft.com/itpro/microsoft-edge)\n* [Internet Exploreri elutsükli poliitika KKK](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Alates 12. jaanuarist 2016 saab tehnilist tuge ja turbevärskendusi ainult toetatud operatsioonisüsteemi jaoks saadaoleva Internet Exploreri kõige uuem versioon.\n\n\n"
+content: "\n\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](https://www.microsoft.com/itpro/microsoft-edge)\n* [Internet Exploreri/Edge'i elutsükli poliitika KKK](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Internet Exploreri poolt toetatud operatsioonisüsteemid](/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-)\n* [Microsoft Edge'i poolt toetatud operatsioonisüsteemid](/deployedge/microsoft-edge-supported-operating-systems)\n\n\n> [!NOTE]\n> Mõningaid Internet Exploreri versioone võidakse toetada pärast operatsioonisüsteemi viimast lõppkuupäeva, kui laiendatud turvavärskendused (ESU) on saadaval. Leiate [siit](https://docs.microsoft.com/lifecycle/faq/extended-security-updates) ESU-sid pakkuvate toodete loendi. \n\n\n\n"
