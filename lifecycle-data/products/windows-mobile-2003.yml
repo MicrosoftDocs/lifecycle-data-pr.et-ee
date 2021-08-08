@@ -4,18 +4,18 @@ metadata:
   description: Windows Mobile 2003 järgib fikseeritud elutsükli poliitikat.
   ms.date: 09/10/2020
   keywords: for Pocket PC,for Smartphones,Second Edition software for Pocket PC Phone,Second Edition software for Smartphone
-  ms.openlocfilehash: c52bd0f85c680da23bee4cb5e6ae669a53c1038c
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
+  ms.openlocfilehash: 7d7a86e29b2495fd19423f48166f023430bc728c36d921604a5980c5bfabaff8
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: et-EE
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002088"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2483745"
 name: Windows Mobile 2003
 summary: >
   Windows Mobile 2003 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
-  See kehtib järgmiste väljaannete kohta: Pocket PC jaoks, nutitelefonidele, Second Edition tarkvara Pocket PC Phone’i jaoks, Second Edition tarkvara nutitelefoni jaoks
+  See kehtib järgmiste väljaannete kohta: Pocket PC, nutitelefonid, Second Edition tarkvara Pocket PC Phone, Second Edition nutitelefoni tarkvara
 
 
   > [!IMPORTANT]
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2004
   endDate: 07/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>Väljaanded \n* Pocket PC jaoks\n* nutitelefonidele\n* Second Edition tarkvara Pocket PC Phone’i jaoks\n* Second Edition tarkvara nutitelefoni jaoks"
+content: "\n\n\n## <a name=\"editions\"></a>Väljaanded \n* Pocket PC jaoks\n* nutitelefonidele\n* Second Edition tarkvara Pocket PC Phone jaoks\n* Second Edition tarkvara nutitelefoni jaoks"
