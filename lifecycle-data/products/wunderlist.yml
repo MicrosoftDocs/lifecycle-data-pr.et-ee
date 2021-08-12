@@ -3,23 +3,25 @@ metadata:
   title: Wunderlist
   description: Wunderlist järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
-  ms.openlocfilehash: dd978a839e950577c0854ee914df4114d50a9865
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: et-EE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "852233"
 name: Wunderlist
-summary: "Wunderlist järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.\n\n\n> [!IMPORTANT]\n> Selle toote tugiteenusele kehtivad selle omandamise tingimused. Selle toote tugi on lõppenud. Vaadake allpool migreerimisjuhiseid. \n"
+summary: |
+  Wunderlist järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
+
+
+  > [!IMPORTANT]
+  > Selle toote tugiteenusele kehtivad selle omandamise tingimused. Selle toote tugi on lõppenud. Vaadake allpool migreerimisjuhiseid. 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 06/02/2015
   end: 05/06/2020
   extendedEnd: 05/06/2020
 releases:
-- version: Original Release
-  startDate: 06/02/2015
-  endDate: 05/06/2020
-content: "\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](https://www.wunderlist.com/blog/join-us-on-our-new-journey)"
+  - version: Original Release
+    startDate: 06/02/2015
+    endDate: 05/06/2020
+content: |+
+
+  ## <a name="links"></a>Lingid 
+  * [Migreerimise juhised](https://www.wunderlist.com/blog/join-us-on-our-new-journey)

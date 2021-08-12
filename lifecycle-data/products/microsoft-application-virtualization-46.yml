@@ -3,38 +3,31 @@ metadata:
   title: Microsoft Application Virtualization 4.6
   description: Microsoft Application Virtualization 4.6 järgib fikseeritud elutsükli poliitikat.
   ms.date: 09/01/2020
-  keywords: for Remote Desktop Services,for Windows Desktops,Sequencer
-  ms.openlocfilehash: e7ee52090b6e77209d2cc75b5862c21dfe4fe3dd
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: et-EE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "935556"
+  keywords: 'for Remote Desktop Services,for Windows Desktops,Sequencer'
 name: Microsoft Application Virtualization 4.6
-summary: >+
+summary: |+
   Microsoft Application Virtualization 4.6 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
-
 
   See kehtib järgmiste väljaannete kohta: kaugtöölaua teenused, Windows töölauad, Sequencer
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 05/27/2010
   end: 07/14/2015
   extendedEnd: 07/14/2020
 releases:
-- version: Service Pack 3
-  startDate: 12/02/2013
-  endDate: 07/14/2020
-- version: Service Pack 2
-  startDate: 10/01/2012
-  endDate: 01/13/2015
-- version: Service Pack 1
-  startDate: 01/26/2011
-  endDate: 10/08/2013
-- version: Original Release
-  startDate: 05/27/2010
-  endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Lingid \n* [Toote- ja migreerimisteave](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Migreerimise juhised](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Hoolduspaketi poliitika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Kuna App-V 4.6 klient kasutab App-V 4.5 Serverit, jätkub App-V 4.5 Serveri tugi vastavalt App-V 4.6 elutsükli kuupäevadele, kui seda kasutatakse toetatud App-V 4.6 kliendiga.\n\n## <a name=\"editions\"></a>Väljaanded \n* kaugtöölaua teenuste jaoks\n* Windows töölaudade jaoks\n* Sequencer\n"
+  - version: Service Pack 3
+    startDate: 12/02/2013
+    endDate: 07/14/2020
+  - version: Service Pack 2
+    startDate: 10/01/2012
+    endDate: 01/13/2015
+  - version: Service Pack 1
+    startDate: 01/26/2011
+    endDate: 10/08/2013
+  - version: Original Release
+    startDate: 05/27/2010
+    endDate: 04/10/2012
+content: "\n## <a name=\"links\"></a>Lingid \n* [Toote- ja migreerimisteave](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Migreerimise juhised](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Hoolduspaketi poliitika](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Kuna App-V 4.6 klient kasutab App-V 4.5 Serverit, jätkub App-V 4.5 Serveri tugi vastavalt App-V 4.6 elutsükli kuupäevadele, kui seda kasutatakse toetatud\_App-V 4.6 kliendiga.\n\n## <a name=\"editions\"></a>Väljaanded \n* kaugtöölaua teenuste jaoks\n* Windows töölaudade jaoks\n* Sequencer\n"
