@@ -4,18 +4,18 @@ metadata:
   description: Microsoft Office for Mac 2011 järgib fikseeritud elutsükli poliitikat.
   ms.date: 09/01/2020
   keywords: Academic,Home and Business,Home and Business Home Use Program,Home and Student,Standard
-  ms.openlocfilehash: 916b05553555af4525fb9c94660627d4aef386e6
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 56c5f61385cbdeddafe8571c1439650f85b73f42bcc23bc840f246af69bbe957
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: et-EE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "933225"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2524186"
 name: Microsoft Office for Mac 2011
 summary: >+
   Microsoft Office for Mac 2011 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
-  See kehtib järgmiste väljaannete kohta: Academic, Home and Business, Home and Businessi kodukasutusprogramm, Home and Student, Standard
+  See kehtib järgmiste väljaannete kohta: Academic, Home and Business, Home and Business kodukasutusprogramm, Home and Student, Standard
 
 products:
 - office
