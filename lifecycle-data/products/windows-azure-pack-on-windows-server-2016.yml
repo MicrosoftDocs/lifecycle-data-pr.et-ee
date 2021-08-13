@@ -3,26 +3,26 @@ metadata:
   title: Windows Azure'i pakett (Windows Server 2016)
   description: Windows Azure'i pakett (Windows Server 2016) järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
-  ms.openlocfilehash: a3bc7138c47161efae20613f28d27e015d290e41
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: et-EE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "852191"
 name: Windows Azure'i pakett (Windows Server 2016)
-summary: >+
+summary: |+
   Windows Azure'i pakett (Windows Server 2016) järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/12/2016
   end: 01/11/2022
   extendedEnd: 01/12/2027
 releases:
-- version: Original Release
-  startDate: 10/12/2016
-  endDate: 01/12/2027
-content: "\n## <a name=\"links\"></a>Lingid \n* [Lisateave](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))\n\n> [!NOTE]\n> Windows Azure'i pakett Windows Serveri jaoks on hübriidpilve lahendus, mis toob Windows Azure'i tehnoloogiad teie andmekeskusesse. See võimaldab Microsofti klientidel pakkuda andmekeskuse riistvarale tasuta rikkalikku, iseteenindusega, mitme rentnikuga pilve."
+  - version: Original Release
+    startDate: 10/12/2016
+    endDate: 01/12/2027
+content: |+
+
+  ## <a name="links"></a>Lingid 
+  * [Lisateave](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))
+
+  > [!NOTE]
+  > Windows Azure'i pakett Windows Serveri jaoks on hübriidpilve lahendus, mis toob Windows Azure'i tehnoloogiad teie andmekeskusesse. See võimaldab Microsofti klientidel pakkuda andmekeskuse riistvarale tasuta rikkalikku, iseteenindusega, mitme rentnikuga pilve.

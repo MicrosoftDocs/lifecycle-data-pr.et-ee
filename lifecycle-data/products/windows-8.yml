@@ -3,32 +3,36 @@ metadata:
   title: Windows 8
   description: Windows 8 järgib fikseeritud elutsükli poliitikat.
   ms.date: 09/10/2020
-  keywords: Enterprise,Enterprise N,N,Pro with Media Center,Professional,Professional N,SL
-  ms.openlocfilehash: b68f0cd76dd872c62082863665109462e414f4be
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: et-EE
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002310"
+  keywords: 'Enterprise,Enterprise N,N,Pro with Media Center,Professional,Professional N,SL'
 name: Windows 8
-summary: >
+summary: |
   Windows 8 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
-
 
   See kehtib järgmiste väljaannete kohta: Enterprise, Enterprise N, N, Pro koos Media Centeriga, Professional, Professional N, SL
 
-
   > [!IMPORTANT]
-
   > Selle toote tugi on lõppenud. Kliendid peavad installima iga värskenduse Windows 8.1 jaoks, et tugi jätkuks.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/30/2012
   extendedEnd: 01/12/2016
 releases:
-- version: Original Release
-  startDate: 10/30/2012
-  endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Lingid \n* [Elutsükli KKK – Windows 8.1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>Väljaanded \n* Enterprise\n* Enterprise N\n* N\n* Pro koos Media Centeriga\n* Professional\n* Professional N\n* SL"
+  - version: Original Release
+    startDate: 10/30/2012
+    endDate: 01/12/2016
+content: |
+
+  ## <a name="links"></a>Lingid 
+  * [Elutsükli KKK – Windows 8.1](/lifecycle/faq/windows#windows-81)
+
+
+  ## <a name="editions"></a>Väljaanded 
+  * Enterprise
+  * Enterprise N
+  * N
+  * Pro koos Media Centeriga
+  * Professional
+  * Professional N
+  * SL

@@ -3,30 +3,26 @@ metadata:
   title: Windows Embedded POSReady 2009
   description: Windows Embedded POSReady 2009 järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 0e56e5a9ca8be7a3144f2107f487ce342b8f3ffe
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: et-EE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "813499"
 name: Windows Embedded POSReady 2009
-summary: >
+summary: |
   Windows Embedded POSReady 2009 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
-
   > [!IMPORTANT]
-
   > Tugi on lõppenud. Vaadake allpool migreerimisjuhiseid.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 03/10/2009
   end: 04/08/2014
   extendedEnd: 04/09/2019
 releases:
-- version: Original Release
-  startDate: 03/10/2009
-  endDate: 04/09/2019
-content: "\n## <a name=\"links\"></a>Lingid \n* [Windows Embedded 2009 toe lõpp](/lifecycle/announcements/windows-embedded-2009-end-of-support)\n* [Windows IoT-le](https://www.microsoft.com/windowsforbusiness/windows-iot)"
+  - version: Original Release
+    startDate: 03/10/2009
+    endDate: 04/09/2019
+content: |+
+
+  ## <a name="links"></a>Lingid 
+  * [Windows Embedded 2009 toe lõpp](/lifecycle/announcements/windows-embedded-2009-end-of-support)
+  * [Windows IoT-le](https://www.microsoft.com/windowsforbusiness/windows-iot)
