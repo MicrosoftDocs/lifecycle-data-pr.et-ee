@@ -3,25 +3,23 @@ metadata:
   title: PowerPoint 2011 for Mac
   description: PowerPoint Macile 2011 järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
-  ms.openlocfilehash: d0fe8d525c158c363a39793b7e30850693dc93e5
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: et-EE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "852586"
 name: PowerPoint 2011 for Mac
-summary: >+
+summary: |+
   PowerPoint Macile 2011 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
 products:
-- office
+  - office
 policyType: fixed-mainstream-only
 supportDates:
   start: 12/09/2010
   end: 10/10/2017
 releases:
-- version: Original Release
-  startDate: 12/09/2010
-  endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> PowerPoint Macile 2011 tavatuge laiendatakse nii, nagu on näidatud, et pakkuda kõigile klientidele standardset elutsükli ülemineku ajakava."
+  - version: Original Release
+    startDate: 12/09/2010
+    endDate: 10/10/2017
+content: |+
+
+
+  > [!NOTE]
+  > PowerPoint Macile 2011 tavatuge laiendatakse nii, nagu on näidatud, et pakkuda kõigile klientidele standardset elutsükli ülemineku ajakava.

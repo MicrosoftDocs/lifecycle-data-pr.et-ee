@@ -4,29 +4,37 @@ metadata:
   description: Microsoft Identity Integration Server 2003 järgib fikseeritud elutsükli poliitikat.
   ms.date: 09/01/2020
   keywords: Enterprise
-  ms.openlocfilehash: a1ef4c754fdb32948d2e6e965d554076955dd544
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: et-EE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "933521"
 name: Microsoft Identity Integration Server 2003
-summary: "Microsoft Identity Integration Server 2003 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.\n\nSee kehtib järgmiste väljaannete kohta: Enterprise\n\n> [!IMPORTANT]\n> Selle toote tugi on lõppenud. \n"
+summary: |
+  Microsoft Identity Integration Server 2003 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
+
+  See kehtib järgmiste väljaannete kohta: Enterprise
+
+  > [!IMPORTANT]
+  > Selle toote tugi on lõppenud. 
 products:
-- m365
+  - m365
 policyType: fixed
 supportDates:
   start: 09/26/2003
   end: 10/14/2008
   extendedEnd: 10/08/2013
 releases:
-- version: Service Pack 2
-  startDate: 03/30/2007
-  endDate: 10/08/2013
-- version: Service Pack 1
-  startDate: 01/10/2005
-  endDate: 04/08/2008
-- version: Original Release
-  startDate: 09/26/2003
-  endDate: 01/10/2006
-content: "\n## <a name=\"links\"></a>Lingid \n* [Hoolduspaketi poliitika](/lifecycle/policies/fixed#service-packs)\n* [Windows Serveri teave](/windows-server/)\n\n\n## <a name=\"editions\"></a>Väljaanded \n* Enterprise"
+  - version: Service Pack 2
+    startDate: 03/30/2007
+    endDate: 10/08/2013
+  - version: Service Pack 1
+    startDate: 01/10/2005
+    endDate: 04/08/2008
+  - version: Original Release
+    startDate: 09/26/2003
+    endDate: 01/10/2006
+content: |
+
+  ## <a name="links"></a>Lingid 
+  * [Hoolduspaketi poliitika](/lifecycle/policies/fixed#service-packs)
+  * [Windows Serveri teave](/windows-server/)
+
+
+  ## <a name="editions"></a>Väljaanded 
+  * Enterprise

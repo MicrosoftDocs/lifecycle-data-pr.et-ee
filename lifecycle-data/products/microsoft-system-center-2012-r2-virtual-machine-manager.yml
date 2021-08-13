@@ -3,26 +3,24 @@ metadata:
   title: Microsoft System Center 2012 R2 Virtual Machine Manager (virtuaalarvuti haldur)
   description: Microsoft System Center 2012 R2 Virtual Machine Manager (virtuaalarvuti haldur) järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 45aa95c9e57ed369960f4142c01764f36a8a0495
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: et-EE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "852229"
 name: Microsoft System Center 2012 R2 Virtual Machine Manager (virtuaalarvuti haldur)
-summary: >+
+summary: |+
   Microsoft System Center 2012 R2 Virtual Machine Manager (virtuaalarvuti haldur) järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
 products:
-- msc
+  - msc
 policyType: fixed
 supportDates:
   start: 01/16/2014
   end: 07/11/2017
   extendedEnd: 07/12/2022
 releases:
-- version: Original Release
-  startDate: 01/16/2014
-  endDate: 07/12/2022
-content: "\n## <a name=\"links\"></a>Lingid \n* [System Centeri dokumentatsioon](/system-center/#pivot=components&panel=components-all)\n* [System Centeri ressursid](https://www.microsoft.com/system-center/resources)"
+  - version: Original Release
+    startDate: 01/16/2014
+    endDate: 07/12/2022
+content: |+
+
+  ## <a name="links"></a>Lingid 
+  * [System Centeri dokumentatsioon](/system-center/#pivot=components&panel=components-all)
+  * [System Centeri ressursid](https://www.microsoft.com/system-center/resources)
