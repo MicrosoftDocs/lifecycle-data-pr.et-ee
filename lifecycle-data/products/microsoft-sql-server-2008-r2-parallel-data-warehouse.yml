@@ -3,26 +3,20 @@ metadata:
   title: SQL Server 2008 R2 paralleelandmete ladu
   description: Microsoft SQL Server 2008 R2 paralleelandmete ladu järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 8296e0c784226bc26fbb70bc8fb62f9925fa648d
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: et-EE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "813253"
 name: SQL Server 2008 R2 paralleelandmete ladu
-summary: >+
+summary: |+
   Microsoft SQL Server 2008 R2 paralleelandmete ladu järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
 products:
-- sql-server
+  - sql-server
 policyType: fixed
 supportDates:
   start: 11/09/2010
   end: 07/08/2014
   extendedEnd: 07/09/2019
 releases:
-- version: Original Release
-  startDate: 11/09/2010
-  endDate: 07/09/2019
-content: ''
+  - version: Original Release
+    startDate: 11/09/2010
+    endDate: 07/09/2019
+content: |+
