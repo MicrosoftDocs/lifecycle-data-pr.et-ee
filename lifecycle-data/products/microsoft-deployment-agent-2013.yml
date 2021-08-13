@@ -3,26 +3,24 @@ metadata:
   title: Microsofti juurutusagent 2013
   description: Microsoft Deployment Agent 2013 järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
-  ms.openlocfilehash: d81680178f3fc6d72450bbf62cbf11ccb7ef8dc5
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: et-EE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "852297"
 name: Microsofti juurutusagent 2013
-summary: >+
+summary: |+
   Microsoft Deployment Agent 2013 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 01/15/2014
   end: 04/09/2019
   extendedEnd: 04/09/2024
 releases:
-- version: Original Release
-  startDate: 01/15/2014
-  endDate: 04/09/2024
-content: "\n\n> [!NOTE]\n> Microsoft Deployment Agent 2013 4. värskendust toetatakse poliitika juhiste kohaselt kuni 04.09.2024."
+  - version: Original Release
+    startDate: 01/15/2014
+    endDate: 04/09/2024
+content: |+
+
+
+  > [!NOTE]
+  > Microsoft Deployment Agent 2013 4. värskendust toetatakse poliitika juhiste kohaselt kuni 04.09.2024.

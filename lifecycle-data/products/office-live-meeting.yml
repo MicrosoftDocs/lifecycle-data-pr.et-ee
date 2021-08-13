@@ -4,22 +4,29 @@ metadata:
   description: Office Live'i koosolek järgib kaasaegset elutsükli poliitikat.
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: f5d328b887173c82655f707e9d931266c2d7b857
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: et-EE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "928896"
 name: Office Live'i koosolek
-summary: "Office Live'i koosolek järgib [kaasaegset](/lifecycle/policies/modern) elutsükli poliitikat.\n\nSee kehtib järgmiste väljaannete kohta: Standard\n\n> [!IMPORTANT]\n> Selle teenuse tugi on lõppenud. Vaadake allpool migreerimisjuhiseid. \n"
+summary: |
+  Office Live'i koosolek järgib [kaasaegset](/lifecycle/policies/modern) elutsükli poliitikat.
+
+  See kehtib järgmiste väljaannete kohta: Standard
+
+  > [!IMPORTANT]
+  > Selle teenuse tugi on lõppenud. Vaadake allpool migreerimisjuhiseid. 
 products:
-- office
+  - office
 policyType: modern-online
 supportDates:
   start: 04/10/2009
   end: 12/31/2017
 releases:
-- version: Original Release
-  startDate: 04/10/2009
-  endDate: 12/31/2017
-content: "\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](https://support.office.com/article/Live-Meeting-Server-End-of-Life-6af25745-1f4a-4bcd-8051-fd0766f53c4f)\n\n\n## <a name=\"editions\"></a>Väljaanded \n* Standard"
+  - version: Original Release
+    startDate: 04/10/2009
+    endDate: 12/31/2017
+content: |
+
+  ## <a name="links"></a>Lingid 
+  * [Migreerimise juhised](https://support.office.com/article/Live-Meeting-Server-End-of-Life-6af25745-1f4a-4bcd-8051-fd0766f53c4f)
+
+
+  ## <a name="editions"></a>Väljaanded 
+  * Standard
