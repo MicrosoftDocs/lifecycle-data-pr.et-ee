@@ -3,23 +3,17 @@ metadata:
   title: Internet Explorer 9
   description: Internet Explorer 9 järgib komponendi elutsükli poliitikat.
   ms.date: 08/12/2020
-  ms.openlocfilehash: 56f6d95703597d63faee14b9b135d0d6611e80c8
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: HT
-  ms.contentlocale: et-EE
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893605"
 name: Internet Explorer 9
-summary: >+
+summary: |+
   Internet Explorer 9 järgib [komponendi](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) elutsükli poliitikat.
 
 
 products:
-- internet-explorer
+  - internet-explorer
 policyType: component
 supportDates:
   start: 03/15/2011
 releases:
-- version: Original Release
-  startDate: 03/15/2011
-content: "\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](https://www.microsoft.com/itpro/microsoft-edge)\n* [Internet Exploreri elutsükli poliitika KKK](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Alates 12. jaanuarist 2016 saab tehnilist tuge ja turbevärskendusi ainult toetatud operatsioonisüsteemi jaoks saadaoleva Internet Exploreri kõige uuem versioon.\n\n\n"
+  - version: Original Release
+    startDate: 03/15/2011
+content: "\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](https://www.microsoft.com/itpro/microsoft-edge)\n* [Internet Exploreri elutsükli poliitika\_KKK](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Alates 12. jaanuarist 2016 saab tehnilist tuge ja turbevärskendusi ainult toetatud operatsioonisüsteemi jaoks saadaoleva Internet Exploreri kõige uuem versioon.\n\n\n"

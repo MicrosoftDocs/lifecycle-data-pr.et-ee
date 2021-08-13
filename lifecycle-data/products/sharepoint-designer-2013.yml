@@ -4,28 +4,30 @@ metadata:
   description: SharePoint Designer 2013 järgib fikseeritud elutsükli poliitikat.
   ms.date: 09/10/2020
   keywords: Designer
-  ms.openlocfilehash: 158c0dee37ae297e6ef3c14e3c74ab1996eaad21
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: et-EE
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001126"
 name: SharePoint Designer 2013
-summary: >+
+summary: |+
   SharePoint Designer 2013 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
-
 
   See kehtib järgmiste väljaannete kohta: Designer
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 01/09/2013
   end: 07/13/2021
   extendedEnd: 07/14/2026
 releases:
-- version: Original Release
-  startDate: 01/09/2013
-  endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>Lingid \n* [Toe üksikasjad](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)\n\n> [!NOTE]\n> Microsoft SharePoint Designer 2013 tugi on laiendatud, nagu näidatud, et tagada ühilduvus tarkvaraga SharePoint Server 2016.\n\n## <a name=\"editions\"></a>Väljaanded \n* Designer"
+  - version: Original Release
+    startDate: 01/09/2013
+    endDate: 04/14/2015
+content: |
+
+  ## <a name="links"></a>Lingid 
+  * [Toe üksikasjad](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)
+
+  > [!NOTE]
+  > Microsoft SharePoint Designer 2013 tugi on laiendatud, nagu näidatud, et tagada ühilduvus tarkvaraga SharePoint Server 2016.
+
+  ## <a name="editions"></a>Väljaanded 
+  * Designer

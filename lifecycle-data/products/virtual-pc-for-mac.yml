@@ -3,25 +3,23 @@ metadata:
   title: Virtual PC Macile
   description: Virtual PC Macile järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
-  ms.openlocfilehash: cf556aeada0feade9a260e41c921b5f0ac6638e7
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: et-EE
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "813518"
 name: Virtual PC Macile
-summary: >+
+summary: |+
   Virtual PC Macile järgib [kaasaegse](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 11/12/2003
   end: 04/13/2010
 releases:
-- version: Original Release
-  startDate: 11/12/2003
-  endDate: 01/13/2009
-content: "\n\n> [!NOTE]\n> Kaasa arvatud versioon 5.01, versioon 5.02, versioon 5.03, versioon 5.04, versioon 6.01, versioon 6.02, versioon 6.1, versioon 6.1.1 värskendus, versioon 7, versioon 7.01"
+  - version: Original Release
+    startDate: 11/12/2003
+    endDate: 01/13/2009
+content: |+
+
+
+  > [!NOTE]
+  > Kaasa arvatud versioon 5.01, versioon 5.02, versioon 5.03, versioon 5.04, versioon 6.01, versioon 6.02, versioon 6.1, versioon 6.1.1 värskendus, versioon 7, versioon 7.01
