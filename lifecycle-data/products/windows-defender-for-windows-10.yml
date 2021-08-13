@@ -3,26 +3,27 @@ metadata:
   title: Windows Defender Windows 10 jaoks
   description: Windows Defender Windows 10 jaoks järgib komponendi elutsükli poliitikat.
   ms.date: 04/28/2021
-  keywords: 
-  ms.openlocfilehash: ba8be3a314dd861f34d24f346ff9ca06266dfa1f
-  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
-  ms.translationtype: HT
-  ms.contentlocale: et-EE
-  ms.lasthandoff: 06/25/2021
-  ms.locfileid: "2029020"
+  keywords: null
 name: Windows Defender Windows 10 jaoks
-summary: >+
+summary: |+
   Windows Defender Windows 10 jaoks järgib [komponendi](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) elutsükli poliitikat.
 
 
 products:
-- windows
+  - windows
 policyType: component
 supportDates:
   start: 07/29/2015
   end: 10/14/2025
 releases:
-- version: Original Release
-  startDate: 07/29/2015
-  endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Lingid \n* [Windows 10](/lifecycle/products/?terms=windows%2010)\n* [Teeninduse juhised](/microsoft-365/security/defender-endpoint/manage-updates-baselines-microsoft-defender-antivirus?view=o365-worldwide#microsoft-defender-antivirus-platform-support)\n\n> [!NOTE]\n> Seda väljaannet nimetatakse komponendiks, mis järgneb oma peamise toote, Windows 10 elutsüklile."
+  - version: Original Release
+    startDate: 07/29/2015
+    endDate: 10/14/2025
+content: |+
+
+  ## <a name="links"></a>Lingid 
+  * [Windows 10](/lifecycle/products/?terms=windows%2010)
+  * [Teeninduse juhised](/microsoft-365/security/defender-endpoint/manage-updates-baselines-microsoft-defender-antivirus?view=o365-worldwide#microsoft-defender-antivirus-platform-support)
+
+  > [!NOTE]
+  > Seda väljaannet nimetatakse komponendiks, mis järgneb oma peamise toote, Windows 10 elutsüklile.
