@@ -4,23 +4,30 @@ metadata:
   description: Microsoft Office Communicator 2007 järgib fikseeritud elutsükli poliitikat.
   ms.date: 09/10/2020
   keywords: Standard
-  ms.openlocfilehash: dbb46e37a768b34dd9240524f45723daa498f825
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: et-EE
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001681"
 name: Microsoft Office Communicator 2007
-summary: "Microsoft Office Communicator 2007 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.\n\nSee kehtib järgmiste väljaannete kohta: Standard\n\n> [!IMPORTANT]\n> Selle toote tugi on lõppenud. \n"
+summary: |
+  Microsoft Office Communicator 2007 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
+
+  See kehtib järgmiste väljaannete kohta: Standard
+
+  > [!IMPORTANT]
+  > Selle toote tugi on lõppenud. 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 10/27/2007
   end: 01/08/2013
   extendedEnd: 01/09/2018
 releases:
-- version: Original Release
-  startDate: 10/27/2007
-  endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n\n## <a name=\"editions\"></a>Väljaanded \n* Standard"
+  - version: Original Release
+    startDate: 10/27/2007
+    endDate: 01/09/2018
+content: |
+
+  ## <a name="links"></a>Lingid 
+  * [Migreerimise juhised](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)
+
+
+  ## <a name="editions"></a>Väljaanded 
+  * Standard

@@ -3,33 +3,33 @@ metadata:
   title: SoftGrid Application Virtualization
   description: SoftGrid Application Virtualization järgib fikseeritud elutsükli poliitikat.
   ms.date: 09/10/2020
-  keywords: 4.1 for Desktops,4.2 for Desktops,for Terminal Services 4.1
-  ms.openlocfilehash: 5009a44f0d0ab2b180f62474de8f4d4bb01e3e62
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: et-EE
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001015"
+  keywords: '4.1 for Desktops,4.2 for Desktops,for Terminal Services 4.1'
 name: SoftGrid Application Virtualization
-summary: >
+summary: |
   SoftGrid Application Virtualization järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
-
 
   See kehtib järgmiste väljaannete kohta: 4.1 lauaarvutitele, 4.2 lauaarvutitele, terminaliteenustele 4.1
 
-
   > [!IMPORTANT]
-
   > Tugi on lõppenud. Vaadake allpool migreerimisjuhiseid.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 05/25/2007
   end: 07/10/2012
   extendedEnd: 07/11/2017
 releases:
-- version: Original Release
-  startDate: 05/25/2007
-  endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Väljaanded \n* 4.1 lauaarvutitele\n* 4.2 lauaarvutitele\n* 4.1 terminaliteenuste jaoks"
+  - version: Original Release
+    startDate: 05/25/2007
+    endDate: 07/11/2017
+content: |
+
+  ## <a name="links"></a>Lingid 
+  * [Migreerimise juhised](https://technet.microsoft.com/en-us/windows/bb899442)
+
+
+  ## <a name="editions"></a>Väljaanded 
+  * 4.1 lauaarvutitele
+  * 4.2 lauaarvutitele
+  * 4.1 terminaliteenuste jaoks
