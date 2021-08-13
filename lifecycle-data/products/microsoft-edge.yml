@@ -3,31 +3,29 @@ metadata:
   title: Microsoft Edge
   description: Microsoft Edge järgib kaasaegse elutsükli poliitikat.
   ms.date: 07/17/2021
-  keywords: 
-  ms.openlocfilehash: 81aabf800a7f4fa41266ade0acae6723211cdc4f
-  ms.sourcegitcommit: 1629a54febaf89d1050ce02280d58f9ec8736d8c
-  ms.translationtype: HT
-  ms.contentlocale: et-EE
-  ms.lasthandoff: 07/23/2021
-  ms.locfileid: "2172036"
+  keywords: null
 name: Microsoft Edge
-summary: >+
+summary: |+
   Microsoft Edge järgib [kaasaegse](/lifecycle/policies/modern) elutsükli poliitikat.
 
 
 
 
-
   > [!IMPORTANT]
-
   > Arvestage, et selle toote pärandversiooni tootetugi lõpeb 9. märtsil 2021. Lisateavet leiate [siit](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666).
 
 products:
-- microsoft-edge
+  - microsoft-edge
 policyType: modern-on-prem
 supportDates:
   start: 01/15/2020
 releases:
-- version: Original Release
-  startDate: 01/15/2020
-content: "\n\n## <a name=\"links\"></a>Lingid \n* [Microsoft Edge'i poolt toetatud operatsioonisüsteemid](/deployedge/microsoft-edge-supported-operating-systems)\n* [Elutsükli KKK – Internet Explorer ja Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Microsoft Edge'i elutsükli poliitika](/deployedge/microsoft-edge-support-lifecycle)"
+  - version: Original Release
+    startDate: 01/15/2020
+content: |+
+
+
+  ## <a name="links"></a>Lingid 
+  * [Microsoft Edge'i poolt toetatud operatsioonisüsteemid](/deployedge/microsoft-edge-supported-operating-systems)
+  * [Elutsükli KKK – Internet Explorer ja Edge](/lifecycle/faq/internet-explorer-microsoft-edge)
+  * [Microsoft Edge'i elutsükli poliitika](/deployedge/microsoft-edge-support-lifecycle)

@@ -3,29 +3,27 @@ metadata:
   title: Windows Phone 8.1
   description: Windows Phone 8.1 järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
-  ms.openlocfilehash: d81cd34117e63701bf48f128d7d3aafdd93ac581
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: et-EE
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "852450"
 name: Windows Phone 8.1
-summary: >
+summary: |
   Windows Phone 8.1 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
-
   > [!IMPORTANT]
-
   > Selle toote tugi on lõppenud.
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 06/24/2014
   end: 07/11/2017
 releases:
-- version: Original Release
-  startDate: 06/24/2014
-  endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Lingid \n* [Windows Phone 8.1 KKK](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> Microsoft teeb operatsioonisüsteemi värskendused (sh turbevärskendused) kättesaadavaks vähemalt 36 kuuks pärast elutsükli alguskuupäeva. Need värskendused on astmelised, kusjuures iga värskendus põhineb sellele eelnenud värskendusel. Kliendid peavad installima iga värskenduse, et tugi jätkuks. Nende astmeliste värskenduste levitamist võib kontrollida mobiilioperaator või telefoni tootja, kellelt te telefoni ostsite, ja installimiseks on vaja, et teie telefonil oleks eelmised värskendused. Värskenduse saadavus sõltub ka riigist, regioonist ja riistvaravõimalustest."
+  - version: Original Release
+    startDate: 06/24/2014
+    endDate: 07/11/2017
+content: |+
+
+  ## <a name="links"></a>Lingid 
+  * [Windows Phone 8.1 KKK](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)
+
+  > [!NOTE]
+  > Microsoft teeb operatsioonisüsteemi värskendused (sh turbevärskendused) kättesaadavaks vähemalt 36 kuuks pärast elutsükli alguskuupäeva. Need värskendused on astmelised, kusjuures iga värskendus põhineb sellele eelnenud värskendusel. Kliendid peavad installima iga värskenduse, et tugi jätkuks. Nende astmeliste värskenduste levitamist võib kontrollida mobiilioperaator või telefoni tootja, kellelt te telefoni ostsite, ja installimiseks on vaja, et teie telefonil oleks eelmised värskendused. Värskenduse saadavus sõltub ka riigist, regioonist ja riistvaravõimalustest.
