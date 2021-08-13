@@ -3,29 +3,37 @@ metadata:
   title: Windows Storage Server 2008 Embedded
   description: Windows Storage Server 2008 Embedded järgib fikseeritud elutsükli poliitikat.
   ms.date: 09/01/2020
-  keywords: 32 Bit,64 Bit,Basic,Basic 32-Bit,Enterprise,Standard,Workgroup
-  ms.openlocfilehash: 6615fb87d3cf9d0ad0dabec14b5cb3b2fb52b8df
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: et-EE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939071"
+  keywords: '32 Bit,64 Bit,Basic,Basic 32-Bit,Enterprise,Standard,Workgroup'
 name: Windows Storage Server 2008 Embedded
-summary: >+
+summary: |+
   Windows Storage Server 2008 Embedded järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
-
 
   See kehtib järgmiste väljaannete kohta: 32-bitine, 64-bitine, Basic, Basic 32-bitine, Enterprise, Standard, Workgroup
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 07/19/2009
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
-- version: Original Release
-  startDate: 07/19/2009
-  endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> Selle toote tootetugi on lõpetatud. Migreerimisjuhiseid leiate altpoolt.\n\n## <a name=\"editions\"></a>Väljaanded \n* 32-bitine\n* 64-bitine\n* Basic\n* Basic 32-bitine\n* Enterprise\n* Standard\n* Workgroup"
+  - version: Original Release
+    startDate: 07/19/2009
+    endDate: 07/12/2011
+content: |
+
+  ## <a name="links"></a>Lingid 
+  * [Migreerimise juhised](/archive/blogs/storageserver/announcing-windows-storage-server-2016)
+
+  > [!NOTE]
+  > Selle toote tootetugi on lõpetatud. Migreerimisjuhiseid leiate altpoolt.
+
+  ## <a name="editions"></a>Väljaanded 
+  * 32-bitine
+  * 64-bitine
+  * Basic
+  * Basic 32-bitine
+  * Enterprise
+  * Standard
+  * Workgroup

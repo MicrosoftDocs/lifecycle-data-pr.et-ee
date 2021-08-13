@@ -4,23 +4,28 @@ metadata:
   description: Microsoft Office Communicator 2005 järgib fikseeritud elutsükli poliitikat.
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: 63747b4e26cc52df003704a5cda3a3bcd637a8c1
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: et-EE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "936259"
 name: Microsoft Office Communicator 2005
-summary: "Microsoft Office Communicator 2005 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.\n\nSee kehtib järgmiste väljaannete kohta: Standard\n\n> [!IMPORTANT]\n> Selle toote tugi on lõppenud. \n"
+summary: |
+  Microsoft Office Communicator 2005 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
+
+  See kehtib järgmiste väljaannete kohta: Standard
+
+  > [!IMPORTANT]
+  > Selle toote tugi on lõppenud. 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 08/13/2005
   end: 10/12/2010
   extendedEnd: 10/13/2015
 releases:
-- version: Original Release
-  startDate: 08/13/2005
-  endDate: 10/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>Väljaanded \n* Standard"
+  - version: Original Release
+    startDate: 08/13/2005
+    endDate: 10/13/2015
+content: |
+
+
+
+  ## <a name="editions"></a>Väljaanded 
+  * Standard

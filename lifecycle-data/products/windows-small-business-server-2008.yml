@@ -3,23 +3,36 @@ metadata:
   title: Windows Small Business Server 2008
   description: Windows Small Business Server 2008 järgib fikseeritud elutsükli poliitikat.
   ms.date: 09/01/2020
-  keywords: Premium,Standard
-  ms.openlocfilehash: 947f1cc48a1ef1b5397103a64ce7fb2f3e52db2d
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: et-EE
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939182"
+  keywords: 'Premium,Standard'
 name: Windows Small Business Server 2008
-summary: "Windows Small Business Server 2008 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.\n\nSee kehtib järgmiste väljaannete kohta: Premium, Standard\n\n> [!IMPORTANT]\n> Selle toote tugi on lõppenud. \n\nSelle tootepaketi toe kuupäev määratakse kindlaks selle üksiku komponendi toote vastavate elutsüklite alusel. Vaadake üle üksiku komponendi toote elutsükkel, et määrata selle toe pikkus.\n"
+summary: |
+  Windows Small Business Server 2008 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
+
+  See kehtib järgmiste väljaannete kohta: Premium, Standard
+
+  > [!IMPORTANT]
+  > Selle toote tugi on lõppenud. 
+
+  Selle tootepaketi toe kuupäev määratakse kindlaks selle üksiku komponendi toote vastavate elutsüklite alusel. Vaadake üle üksiku komponendi toote elutsükkel, et määrata selle toe pikkus.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 11/21/2008
   extendedEnd: 01/14/2020
 releases:
-- version: Original Release
-  startDate: 11/21/2008
-  endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Lingid \n* [Migreerimise juhised](https://aka.ms/AA1ovn4)\n* [Windows Server 2008](/lifecycle/browse/listings/windows-server-2008)\n* [Exchange Server 2007](/lifecycle/browse/listings/exchange-server-2007)\n* [Microsoft Windows SharePoint Services 3.0](/lifecycle/browse/listings/microsoft-windows-sharepoint-services-30)\n\n\n## <a name=\"editions\"></a>Väljaanded \n* Premium\n* Standard"
+  - version: Original Release
+    startDate: 11/21/2008
+    endDate: 01/14/2020
+content: |
+
+  ## <a name="links"></a>Lingid 
+  * [Migreerimise juhised](https://aka.ms/AA1ovn4)
+  * [Windows Server 2008](/lifecycle/browse/listings/windows-server-2008)
+  * [Exchange Server 2007](/lifecycle/browse/listings/exchange-server-2007)
+  * [Microsoft Windows SharePoint Services 3.0](/lifecycle/browse/listings/microsoft-windows-sharepoint-services-30)
+
+
+  ## <a name="editions"></a>Väljaanded 
+  * Premium
+  * Standard
