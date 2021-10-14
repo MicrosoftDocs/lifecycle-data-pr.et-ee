@@ -2,48 +2,36 @@
 metadata:
   title: Visual Studio 2017
   description: Visual Studio 2017 järgib fikseeritud elutsükli poliitikat.
-  ms.date: 09/01/2020
-  keywords: 'Agents,Build Tools,Community,Enterprise,ESM,Feedback Client,for Mac,IntelliTrace Standalone Collector,Performance Tools,Professional,PSM,Remote Tools,Team Explorer,Test Professional,Visual C++ Redistributable'
+  ms.date: 09/23/2021
+  keywords: 
+  ms.openlocfilehash: 1026f138c847797213d0bb84b3df630e5c338f99
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.translationtype: HT
+  ms.contentlocale: et-EE
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509209"
 name: Visual Studio 2017
-summary: |+
+summary: >+
   Visual Studio 2017 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
-  See kehtib järgmistele väljaannetele: Agendid, Build Tools, Community, Enterprise, Feedback Client, Maci jaoks, IntelliTrace Standalone Collector, jõudlustööriistad, Professional, kaugtööriistad, Team Explorer, Test Professional, Visual C++ taaslevitatav
+
+
+  See kehtib järgmiste väljaannete kohta: Community, Enterprise, Professional, Test Professional
+
+
 
 products:
-  - vs
+- vs
 policyType: fixed
 supportDates:
   start: 03/07/2017
   end: 04/12/2022
   extendedEnd: 04/13/2027
 releases:
-  - version: Version 15.9
-    startDate: 11/13/2018
-    endDate: 04/13/2027
-  - version: Version 15.0
-    startDate: 03/07/2017
-    endDate: 01/14/2020
-content: |
-
-  ## <a name="links"></a>Lingid 
-  * [Teadaanne](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)
-  * [Teeninduse teave](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)
-
-
-  ## <a name="editions"></a>Väljaanded 
-  * Agendid
-  * Build Tools
-  * Community
-  * Enterprise
-  * ESM
-  * Feedback Client
-  * Maci jaoks
-  * IntelliTrace Standalone Collector
-  * Jõudlustööriistad
-  * Professional
-  * PSM
-  * Remote Tools
-  * Team Explorer
-  * Test Professional
-  * Visual C++ Redistributable
+- version: Version 15.9
+  startDate: 11/13/2018
+  endDate: 04/13/2027
+- version: Version 15.0
+  startDate: 03/07/2017
+  endDate: 01/14/2020
+content: "\n\n## <a name=\"links\"></a>Lingid \n* [Visual Studio blogi teadaanded](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)\n* [Teeninduse teave](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)\n* [Visual Studio 2017 allalaadimise leht](https://my.visualstudio.com/Downloads?q=Visual%20Studio%202017)\n* [Visual Studio 2017 väljalaskemärkmed](/visualstudio/releasenotes/vs2017-relnotes)\n\n\n> [!NOTE]\n> Visual Studio 2017 elutsükli raames tarnitakse ja toetatakse järgmiste komponentide Visual Studio 2017 versioone: agendid, koostetööriistad, ESM, Feedback Client, IntelliTrace Standalone Collector, jõudlustööriistad, PSM, kaughaldusriistad, Team Explorer ja Microsoft Visual C++ edasilevitatav.\n\n\n## <a name=\"editions\"></a>Väljaanded \n* Community\n* Enterprise\n* Professional\n* Test Professional"
