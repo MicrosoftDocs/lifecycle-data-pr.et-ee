@@ -1,0 +1,36 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Azure Active Directory (AD) Connect
+  description: Azure Active Directory (AD) Connect järgib modernse elutsükli poliitikat.
+  ms.date: 11/02/2021
+  keywords: AD Connect,AD Sync
+  ms.openlocfilehash: ab854d18a930222cbf10394b623b57c7b660c2b4
+  ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
+  ms.translationtype: HT
+  ms.contentlocale: et-EE
+  ms.lasthandoff: 11/04/2021
+  ms.locfileid: "3560247"
+name: Azure Active Directory (AD) Connect
+summary: >+
+  Azure Active Directory (AD) Connect järgib [kaasaegset](/lifecycle/policies/modern) elutsükli poliitikat.
+
+
+
+
+
+  > [!IMPORTANT]
+
+  > 31. augustil 2022 kõrvaldatakse kasutuselt kõik Azure Active Directory (Azure AD) Connecti 1.x versioonid, kuna need sisaldavad SQL Server 2012 komponente, mida enam ei toetata. Võtke kasutusele [Azure AD Connecti versiooni 2.x](https://www.microsoft.com/download/details.aspx?id=47594) või [Azure AD Connecti pilvsünkroonimise](https://docs.microsoft.com/azure/active-directory/cloud-sync/what-is-cloud-sync) uusim väljalase.
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 09/01/2014
+releases:
+- version: Version 2.x
+  startDate: 09/30/2021
+- version: Version 1.x
+  startDate: 09/01/2014
+  endDate: 08/31/2022
+content: "\n\n## <a name=\"links\"></a>Lingid \n* [Teeninduse teave](/azure/active-directory/hybrid/reference-connect-version-history)\n* [Azure AD Connecti pilvsünkroonimine](/azure/active-directory/cloud-sync/what-is-cloud-sync)\n* [Azure AD Connect v2.0](/azure/active-directory/hybrid/whatis-azure-ad-connect-v2)\n\n\n> [!NOTE]\n> Algselt välja antud 2014. aasta septembris, muutis Azure AD Sync oma nime Azure AD Connectiks juunis 2015, alustades versioonist 1.0.8641.0."

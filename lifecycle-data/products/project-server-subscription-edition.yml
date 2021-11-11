@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Project Server Subscription Edition
+  description: Project Server Subscription Edition järgib modernset elutsükli poliitikat.
+  ms.date: 10/19/2021
+  keywords: 
+  ms.openlocfilehash: 3775c728a11e4e8f85fd3866670d6ce7fcc5f808
+  ms.sourcegitcommit: 6ea3221fd5475440480515f04f33988656d71748
+  ms.translationtype: HT
+  ms.contentlocale: et-EE
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "3546808"
+name: Project Server Subscription Edition
+summary: >+
+  Project Server Subscription Edition järgib [modernset](/lifecycle/policies/modern) elutsükli poliitikat.
+
+
+
+
+
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 11/02/2021
+releases:
+- version: Original Release
+  startDate: 11/02/2021
+content: "\n\n\n\n> [!NOTE]\n> Vaadake [toote](https://docs.microsoft.com/project/project-server-2013-and-2016) ja [arendaja](https://docs.microsoft.com/office/dev/add-ins/project/) dokumentatsiooni."
