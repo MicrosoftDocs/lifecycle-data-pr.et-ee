@@ -3,25 +3,26 @@ metadata:
   title: Windows Server värskenduse teenused Windows Server 2012 R2 jaoks
   description: Windows Server Update Services for Windows Server 2012 R2 järgib komponendi elutsükli poliitikat.
   ms.date: 01/22/2021
-  keywords: null
+  keywords: 
+  ms.openlocfilehash: ec141de46d46f77854675c3d7012f36cae4c4b4d
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: et-EE
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4134642"
 name: Windows Server värskenduse teenused Windows Server 2012 R2 jaoks
-summary: |+
+summary: >+
   Windows Server Update Services for Windows Server 2012 R2 järgib [komponendi](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) elutsükli poliitikat.
 
 
 products:
-  - windows
+- windows
 policyType: component
 supportDates:
-  start: 11/25/2013
-  end: 10/10/2023
+  start: 2013-11-25T00:00:00.000-08:00
+  end: 2023-10-10T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 11/25/2013
-    endDate: 10/10/2023
-content: |+
-  > [!TIP]
-  > Selle komponendi elutsükkel järgib ematoote, Windows Server 2012 R2, elutsüklit.
-
-  ## <a name="links"></a>Lingid 
-  * [Windows Server 2012 R2](/lifecycle/)
+- version: Original Release
+  startDate: 2013-11-25T00:00:00.000-08:00
+  endDate: 2023-10-10T22:59:59.999-08:00
+content: "> [!TIP]\n> Selle komponendi elutsükkel järgib ematoote, Windows Server 2012 R2, elutsüklit.\n\n## <a name=\"links\"></a>Lingid \n* [Windows Server 2012 R2](/lifecycle/)"
