@@ -1,13 +1,13 @@
 ---
 title: Toodete tugiteenuste lõpp aastaks 2028
 description: Uurige välja, millised tooted aeguvad, lõpetavad tootetoe või lähevad üle tavatoelt laiendatud toele aastal 2028.
-ms.date: 08/11/2021
-ms.openlocfilehash: d9483ab57d5626bb7db3be75fd915951aa68adf1
-ms.sourcegitcommit: 5e9349227c409d98c77eb151f27be486fb55a00c
+ms.date: 01/26/2022
+ms.openlocfilehash: a8b3c4f4e6e462fa015bad7b2c1b609d44d9838b
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "4027980"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4116956"
 ---
 # <a name="products-ending-support-in-2028"></a>Toodete tugiteenuste lõpp aastal 2028
 
@@ -39,3 +39,11 @@ Järgmiste [fikseeritud poliitikaga](/lifecycle/policies/fixed) kaetud toodete j
 | [Dynamics SL 2018](/lifecycle/products/dynamics-sl-2018?branch=live)<br> | 11. juuli 2028 |
 
 
+## <a name="products-moving-to-extended-support"></a>Laeiendatud toele üle minevad tooted
+
+Järgmised tooted lähevad tavatoelt üle pikendatud toele 2028. aastal. Laiendatud tugi sisaldab tasuta turbevärskendusi ning tasulisi muid värskendusi ja tuge. Lisaks ei aktsepteeri Microsoft pikendatud toe faasis taotlusi lahenduse muutmiseks või uute funktsioonide lisamiseks.
+
+| Toode | Tavatoe lõpp |
+| --- | --- |
+| [BizTalk Server 2020](/lifecycle/products/biztalk-server-2020?branch=live)<br> | 11. aprill 2028 |
+| [Microsoft Host Integration Server 2020](/lifecycle/products/microsoft-host-integration-server-2020?branch=live)<br> | 11. juuli 2028 |

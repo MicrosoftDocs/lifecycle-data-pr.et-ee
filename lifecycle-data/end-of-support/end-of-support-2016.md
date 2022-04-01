@@ -1,13 +1,13 @@
 ---
 title: Toodete tugiteenuste lõpp aastaks 2016
 description: Uurige välja, millised tooted aeguvad, lõpetavad tootetoe või lähevad üle tavatoelt laiendatud toele aastal 2016.
-ms.date: 09/17/2021
-ms.openlocfilehash: 173d56e15247cd3bb3e31ece82f9aa2d05a54146
-ms.sourcegitcommit: 203d765be641181ebf7b895f783ce497a9568616
+ms.date: 01/14/2022
+ms.openlocfilehash: 02f886067fe5d4199a1f0e5f4505c6afa5cd6194
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "4028172"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4117548"
 ---
 # <a name="products-ending-support-in-2016"></a>Toodete tugiteenuste lõpp aastal 2016
 
@@ -20,13 +20,6 @@ Kui teil on tootetoe kohta küsimusi, võtke ühendust Microsofti klienditeenind
 
 
 
-## <a name="release-end-of-servicing"></a>Väljalaske tugiteenuste lõpp
-
-Järgmiste [modernse poliitikaga](/lifecycle/policies/modern) kaetud toodete tugi lõpeb 2016. aastal.
-
-| Toode | Tootetoe lõpp |
-| --- | --- |
-| [Microsoft Endpoint Configuration Manager, versioon 1511](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 8. detsember 2016 |
 
 
 ## <a name="products-reaching-end-of-support"></a>Tooted, mille tugi peagi lõpeb

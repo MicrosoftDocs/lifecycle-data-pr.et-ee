@@ -3,26 +3,26 @@ metadata:
   title: Microsoft Lync Macile 2011
   description: Microsoft Lync Macile 2011 järgib fikseeritud elutsükli poliitikat.
   ms.date: 07/28/2020
+  ms.openlocfilehash: d7a65da42b035199050edfa3a9248cc085f0f727
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: et-EE
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4139116"
 name: Microsoft Lync Macile 2011
-summary: |+
+summary: >+
   Microsoft Lync Macile 2011 järgib [fikseeritud](/lifecycle/policies/fixed) elutsükli poliitikat.
 
 
 products:
-  - office
+- office
 policyType: fixed
 supportDates:
-  start: 12/09/2010
-  end: 10/10/2017
-  extendedEnd: 10/09/2018
+  start: 2010-12-09T00:00:00.000-08:00
+  end: 2017-10-10T22:59:59.999-08:00
+  extendedEnd: 2018-10-09T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 12/09/2010
-    endDate: 10/09/2018
-content: |+
-
-  ## <a name="links"></a>Lingid 
-  * [Skype'i ärirakendus Macile](https://www.microsoft.com/download/details.aspx?id=54108)
-
-  > [!NOTE]
-  > Microsoft Lync Macile 2011 tugi on laiendatud, nagu näidatud, et pakkuda kõigile klientidele Macil Skype'i ärirakendusele üleminekuks elutsükli ülemineku ajakava.
+- version: Original Release
+  startDate: 2010-12-09T00:00:00.000-08:00
+  endDate: 2018-10-09T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Lingid \n* [Skype'i ärirakendus Macile](https://www.microsoft.com/download/details.aspx?id=54108)\n\n> [!NOTE]\n> Microsoft Lync Macile 2011 tugi on laiendatud, nagu näidatud, et pakkuda kõigile klientidele Macil Skype'i ärirakendusele üleminekuks elutsükli ülemineku ajakava."
