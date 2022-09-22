@@ -1,13 +1,13 @@
 ---
 title: Toodete tugiteenuste lõpp aastaks 2019
 description: Uurige välja, millised tooted aeguvad, lõpetavad tootetoe või lähevad üle tavatoelt laiendatud toele aastal 2019.
-ms.date: 10/18/2021
-ms.openlocfilehash: 8897f8ee06e300688a7ed3680a67f28727d9be00
-ms.sourcegitcommit: dac122fba5780fbedce4e9575efe921fffde28c3
+ms.date: 07/26/2022
+ms.openlocfilehash: 22b7432a5180f392bf343c5fae25f83da39a9753
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 10/19/2021
-ms.locfileid: "4028301"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518226"
 ---
 # <a name="products-ending-support-in-2019"></a>Toodete tugiteenuste lõpp aastal 2019
 
@@ -24,7 +24,6 @@ Järgmised tooted, mida reguleerib [modernne poliitika](/lifecycle/policies/mod
 
 | Toode | Aegumine |
 | --- | --- |
-| [Azure plaanija](/lifecycle/products/azure-scheduler?branch=live)<br> | 30. september 2019 |
 | [HockeyApp](/lifecycle/products/hockeyapp?branch=live)<br> | 16. november 2019 |
 
 
@@ -34,6 +33,7 @@ Järgmiste [modernse poliitikaga](/lifecycle/policies/modern) kaetud toodete tug
 
 | Toode | Tootetoe lõpp |
 | --- | --- |
+| [PowerShell, PowerShell Core 6.0](/lifecycle/products/powershell?branch=live)<br> | 13. veebruar 2019 |
 | [Visual Studio Macile, Visual Studio 2017 Macile](/lifecycle/products/visual-studio-for-mac?branch=live)<br> | 8. märts 2019 |
 | [Windows 10 Enterprise ja Education, versioon 1607](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home ja Pro, versioon 1709](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Core, versioon 1709](/lifecycle/products/windows-10-iot-core?branch=live)<br>[Windows 10 IoT Enterprise, versioon 1607](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server, versioon 1709](/lifecycle/products/windows-server?branch=live)<br> | 9. aprill 2019 |
 | [Microsoft Endpoint Configuration Manager, versioon 1710](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 20. mai 2019. |
