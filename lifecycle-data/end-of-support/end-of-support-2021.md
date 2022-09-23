@@ -1,13 +1,13 @@
 ---
 title: Toodete tugiteenuste lõpp aastaks 2021
 description: Uurige välja, millised tooted aeguvad, lõpetavad tootetoe või lähevad üle tavatoelt laiendatud toele aastal 2021.
-ms.date: 01/14/2022
-ms.openlocfilehash: e0be3c1d9300e53c4eb912b0f9347902948fb0f8
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 09/13/2022
+ms.openlocfilehash: d92c5d932bd58716fea6238162788a45d0dced00
+ms.sourcegitcommit: 83c4bec3ec265ce0fb67fc5dc6b134f8e011dfff
 ms.translationtype: HT
 ms.contentlocale: et-EE
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117474"
+ms.lasthandoff: 09/13/2022
+ms.locfileid: "4520828"
 ---
 # <a name="products-ending-support-in-2021"></a>Toodete tugiteenuste lõpp aastal 2021
 
@@ -37,12 +37,12 @@ Järgmiste [modernse poliitikaga](/lifecycle/policies/modern) kaetud toodete vä
 | Toode | Tootetoe lõpp |
 | --- | --- |
 | [Microsoft Endpoint Configuration Manager, versioon 1906](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 26. jaanuar 2021 |
+| [Azure IoT Edge (versioon 1.0)](/lifecycle/products/azure-iot-edge?branch=live)<br> | 1. veebruar 2021 |
 | [Asutusesisene Dynamics 365 Business Central (moderne poliitika), 2019, väljalaske voog 2, versioon 15.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 13. aprill 2021 |
 | [Windows 10 Enterprise ja Education, versioon 1803](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Enterprise ja Education, versioon 1809](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home ja Pro, versioon 1909](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise, versioon 1803](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows 10 IoT Enterprise, versioon 1809](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server, versioon 1909](/lifecycle/products/windows-server?branch=live)<br> | 11. mai 2021 |
-| [Microsoft Endpoint Configuration Manager, versioon 1511](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br>[Microsoft Endpoint Configuration Manager, versioon 1910](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 29. mai 2021 |
+| [Microsoft Endpoint Configuration Manager, versioon 1910](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 29. mai 2021 |
 | [.NET Core 2.1 (LTS)](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | 21. august 2021 |
 | [Microsoft Endpoint Configuration Manager, versioon 2002](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 1. oktoober 2021 |
-| [Asutusesisene Dynamics 365 Business Central (moderne poliitika), 2020, väljalaske voog 1, versioon 16.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 12. oktoober 2021 |
 | [Windows 10 Enterprise ja Education, versioon 2004](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home ja Pro, versioon 2004](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise, versioon 2004](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server, versioon 2004](/lifecycle/products/windows-server?branch=live)<br> | 14. detsember 2021 |
 
 
